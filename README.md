@@ -1,4 +1,4 @@
-# Airline Passenger Satisfaction
+# Airline Passenger Satisfaction — STAT 112 Final Project
 
 **STAT 112 final group project · Middle East Technical University · Fall 2024–25**
 
