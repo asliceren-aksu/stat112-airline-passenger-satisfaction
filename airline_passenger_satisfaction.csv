@@ -1,0 +1,1001 @@
+Gender;Customer Type;#Age;Type of Travel;Class;//Flight Distance\\\;#Departure Delay in Minutes;#arrival delay in minutes;Inflight Wifi Service;$$Food_and_Drink##;SEAT COMFORT;Inflight Entertainment;CLEANLINESS;SATISFACTION;Travel Insurance Purchased;Total Travel Time (Minutes);Price of Ticket ($)
+Male;Disloyal Customer;43;Business Travel;Eco;1936;26;26;4;2;1;5;4;Satisfied;No;272;396$
+Female;Loyal Customer;65;Business Travel;Eco;1016;4;8;1;4;1;3;4;Dissatisfied;No;121;465$
+Male;Loyal Customer;21;Business Travel;Eco;1460;13;17;2;5;5;3;3;Dissatisfied;Yes;162;356$
+Male;Disloyal Customer;39;Business Travel;Eco_Plus;1349;0;4;4;2;1;5;5;Satisfied;YES;163;567$
+Male;Disloyal Customer;46;Business Travel;Business;997;2;7;1;5;4;2;5;Dissatisfied;YES;117;789$
+Female;Loyal Customer;41;Business Travel;Business;1680;6;11;2;2;1;4;3;Neutral;YES;224;603$
+Male;Disloyal_Customer;38;Business Travel;Eco;1231;21;23;2;5;1;4;3;Dissatisfied;YES;140;250$
+Male;Disloyal_Customer;27;Business Travel;Eco;1827;7;18;2;2;3;4;3;Satisfied;Nno;178;295$
+Male;disloyal Customer;42;business Travel;Eco;964;26;25;4;5;3;3;2;Dissatisfied;Nno;106;378$
+Female;disloyal Customer;32;Personal Travel;Eco;2359;6;7;2;1;5;3;4;Satisfied;Nno;256;325$
+Male;disloyal Customer;18;Personal Travel;Business;1051;6;24;3;4;5;4;3;Satisfied;Nno;124;549$
+Male;Loyal Customer;51;personal travel;Eco;1609;1;0;0;3;4;2;2;Satisfied;Nno;280;326$
+Male;Disloyal Customer;49;Personal Travel;Eco;1895;NA;14;4;3;3;3;2;Dissatisfied;Yes;294;280$
+Male;Disloyal Customer;40;Business Travel;Eco;1214;2;10;2;2;3;2;3;Dissatisfied;Yes;-139;286$
+Female;Loyal Customer;42;Business Travel;Eco;1926;22;16;3;4;2;1;4;Dissatisfied;No;241;390$
+Male;Loyal Customer;50;Business Travel;Eco-Plus;885;24;27;4;2;5;5;3; Dissatisfied;Yes;102;585$
+Female;Loyal Customer;42;Business Travel;Business;2226;28;43;2;3;3;3;4;Satisfied;Yes;211;651$
+Female;Disloyal Customer;49;Personal Travel;Eco;1507;7;4;4;2;3;5;3;S ;Yes;165;333$
+Female;Disloyal Customer;37;Business Travel;Eco;1201;11;6;3;5;NA;2;3;S ;No;121;452$
+Male;Loyal Customer;53;Personal Travel;Eco;1350;15;12;3;1;1;4;3;S ;No;165;242$
+Female;Loyal Customer;43;Business Travel;Eco;1904;1;10;1;2;5;2;4;S ;No;280;299$
+Male;Loyal Customer;41;Personal Travel;Business;1207;9;19;5;2;2;4;1;S ;No;152;405$
+Female;Disloyal Customer;27;Business Travel;Business;1125;0;2;4;3;3;4;3;S ;No;165;537$
+Female;Disloyal Customer;42;Business Travel;Business;1389;6;14;2;2;1;2;2;S ;No;134;507$
+Female;Disloyal Customer;31;Business Travel;Eco;911;1;12;2;3;4;5;3;S ;Yes;99;470$
+Female;Loyal Customer;33;Business Travel;Business;2410;2;15;4;4;1;2;5;S ;Yes;274;502$
+Female;Loyal_Customer;31;Business Travel;Business;1216;4;7;3;4;4;4;2;Dissatisfied;Yes;123;469$
+Female;Loyal_Customer;29;Business Travel;Eco Plus;1915;5;0;4;3;1;5;3;NA;Yes;385;594$
+fEMALE;Loyal Customer;61;NA;Business;1604;9;9;3;1;4;5;3;Dissatisfied;Yes;180;434$
+Female;Disloyal Customer;53;Business Travel;Eco Plus;1007;0;2;4;4;4;5;4;Satisfied;Yes;166;415$
+Male;Disloyal Customer;59;Business Travel;Eco;1497;7;10;2;2;1;3;3;Satisfied;No;187;395$
+Male;Disloyal Customer;27;Business Travel;Eco;1892;2;6;2;4;3;2;4;Dissatisfied;No;251;236$
+Female;Disloyal Customer;40;Personal Travel;Business;1405;8;18;3;2;2;2;4;Satisfied;No;156;603$
+fEMALE;Loyal ;27;Business Travel;Business;2096;10;21;5;3;1;3;3;Satisfied;No;251;613$
+fEMALE;Disloyal Customer;33;Business Travel;Eco;2010;8;12;2;3;4;4;3;Satisfied;No;200;505$
+Male;Disloyal Customer;30;Business Travel;Eco;1959;13;23;3;4;3;2;3;Satisfied;No;276;282$
+Female;Disloyal Customer;52;Business Travel;Eco;1270;4;10;3;1;2;4;4;Satisfied;No;140;359$
+Male;Loyal_Customer;36;Business Travel;Business;960;14;19;3;3;1;3;1;Satisfied;Yes;116;553$
+Male;Loyal_Customer;50;Business Travel;Eco;1193;5;14;4;1;2;3;3;N ;Yes;215;376$
+Male;Loyal Customer;46;Business Travel;Eco;1598;6;11;4;4;4;4;4;Satisfied;No;241;204$
+Male;Disloyal Customer;63;Personal Travel;Eco;1772;10;25;0;5;2;3;3;Satisfied;No;227;291$
+Male;Disloyal Customer;25;Business Travel;Eco;414;0;0;5;3;5;NA;3;Dissatisfied;Yes;42;207$
+Female;Loyal Customer;52;Business Travel;Eco;1495;10;12;4;3;5;2;3;Satisfied;Yes;171;385$
+Female;Disloyal Customer;51;Business Travel;Eco;1579;9;13;4;5;1;4;2;Satisfied;NO;252;137$
+Female;Disloyal Customer;30;Personal Travel;Business;1361;3;10;3;3;1;1;3;D ;Yes;174;294$
+Female;NA;50;Business Travel;Eco;2145;0;11;4;3;4;2;3;Satisfied;No;194;431$
+Female;Loyal Customer;43;Personal Travel;Business;1710;0;4;1;3;2;4;5;Satisfied;Yes;209;425$
+Male;Disloyal Customer;37;Business Travel;Eco;2155;25;22;2;4;1;5;2;Satisfied;No;286;251$
+Female;Loyal Customer;31;Business Travel;Eco;1392;11;20;4;1;2;3;4;Satisfied;Yes;159;477$
+Female;Disloyal Customer;32;Business Travel;Business;1968;1;9;2;NA;3;3;4;Neutral;No;215;582$
+Male;Loyal Customer;60;Personal Travel;Business;2317;4;0;0;3;4;3;1;Dissatisfied;Yes;316;567$
+Female;Disloyal Customer;40;Business Travel;Business;2155;8;12;4;1;1;2;4;Satisfied;NO;246;533$
+Male;Loyal Customer;47;Personal Travel;Eco;953;18;15;4;4;1;5;1;Neutral;NO;126;547$
+Female;Loyal Customer;32;Personal Travel;Eco Plus;1373;0;1;NA;3;5;4;5;Neutral;NO;151;269$
+Male;Disloyal Customer;32;Business Travel;Business;1327;2;2;4;1;4;2;4;Satisfied;NO;160;724$
+fEMALE;Loyal Customer;50;Business Travel;Eco Plus;1744;22;31;3;3;3;3;2;Neutral;NO;199;393$
+fEMALE;Loyal Customer;26;Business Travel;Eco;1843;0;5;3;4;4;4;2;Satisfied;NO;268;184$
+Male;Loyal Customer;35;Business Travel;Business;1080;2;0;4;4;3;3;3;Satisfied;NO;159;598$
+Male;NA;40;Personal Travel;Business;1533;31;40;3;5;4;4;3;Satisfied;NO;162;511$
+Male;Disloyal Customer;41;Personal Travel;Eco;490;9;6;1;4;2;1;3;Satisfied;NO;62;174$
+Male;Disloyal Customer;38;Business Travel;Eco;2220;3;9;2;1;2;4;3;Satisfied;Yes;263;257$
+Male;Loyal_Customer;43;Business Travel;Eco;1243;0;0;3;3;4;2;4;Dissatisfied;No;164;347$
+Male;Loyal_Customer;46;Personal Travel;Business;1527;0;3;3;4;3;5;2;Satisfied;No;163;514$
+Male;Loyal Customer;47;NA;Business;1345;2;9;4;3;5;3;4;Satisfied;No;189;302$
+Male;Loyal Customer;30;Personal Travel;Eco;2073;21;28;4;3;2;3;4;Satisfied;No;265;385$
+Female;Loyal Customer;37;Business Travel;Business;300;5;16;3;NA;5;5;3;Dissatisfied;No;32;500$
+Female;Loyal Customer;51;Business Travel;Business;1491;12;16;4;3;5;1;4;Neutral;No;152;416$
+Male;Loyal Customer;48;Business Travel;Business;1447;25;31;1;5;2;3;2;Neutral;No;200;644$
+Female;Disloyal Customer;26;Business Travel;NA;1273;5;7;0;3;4;3;1;NA;No;116;347$
+Female;Loyal Customer;43;Business Travel;Eco Plus;2363;2;7;4;3;3;3;4;Dissatisfied;No;NA;521$
+Female;Loyal Customer;20;Business Travel;Eco;1056;7;14;0;5;5;5;3;Satisfied;No;164;393$
+Female;Disloyal Customer;40;Business Travel;Eco Plus;1885;23;27;2;3;3;4;3;Neutral;No;220;399$
+Male;Loyal Customer;58;Personal Travel;Business;1678;16;11;3;2;4;1;4;D;No;225;464$
+Female;Disloyal Customer;30;Personal Travel;Eco;2130;0;6;3;3;3;4;5;D;No;246;328$
+Male;Disloyal Customer;31;Business Travel;Business;1166;11;17;4;4;2;3;4;D;No;146;508$
+Female;Disloyal Customer;47;Business Travel;Eco;1133;8;9;2;4;1;5;4;Satisfied;YES;139;264$
+Female;Loyal Customer;24;Business Travel;Eco Plus;2048;23;21;0;4;3;3;1;Satisfied;No;308;460$
+Female;Disloyal Customer;33;Business Travel;Eco;1712;1;13;2;4;4;4;2;Satisfied;No;180;335$
+Male;Loyal Customer;45;Business Travel;Business;727;7;14;3;2;3;3;4;Dissatisfied;Yes;116;553$
+Female;Loyal Customer;33;Business Travel;Eco;1230;21;24;2;4;3;3;3;Satisfied;Yes;194;458$
+Male;Loyal Customer;37;Business Travel;Business;1693;5;4;3;4;2;3;3;Satisfied;No;197;538$
+Female;Disloyal Customer;47;Business Travel;Eco;1918;6;6;4;2;3;2;3;Dissatisfied;No;184;351$
+Male;Loyal Customer;44;Business Travel;Eco;1160;0;11;5;NA;1;4;4;Satisfied;No;155;290$
+Female;Loyal Customer;42;Business Travel;Eco;NA;3;NA;2;5;4;3;2;Dissatisfied;No;33;393$
+Male;Disloyal Customer;36;Personal Travel;Eco;1761;3;5;3;4;5;5;4;Satisfied;No;NA;314$
+Male;Loyal Customer;43;Business Travel;Eco;889;29;36;3;4;3;3;2;Satisfied;No;96;440$
+Female;Loyal Customer;38;Business Travel;Business;491;3;3;5;4;1;4;1;Satisfied;Yes;65;492$
+Male;Loyal Customer;44;Business Travel;NA;300;6;18;5;3;1;5;3;Dissatisfied;No;47;304$
+Female;Loyal Customer;35;Business Travel;Business;1906;11;22;2;3;3;4;2;Satisfied;Yes;406;629$
+Female;Loyal Customer;38;PERSONAL TRAVEL;Eco;1564;1;3;4;3;3;5;4;Satisfied;No;205;305$
+Female;Loyal Customer;30;Business Travel;Eco;1387;6;7;2;1;4;5;1;Dissatisfied;No;142;259$
+Female;Disloyal Customer;39;Personal Travel;Eco;2194;13;4;0;4;2;3;2;Satisfied;No;347;410$
+Female;Loyal Customer;31;Business Travel;Eco;1818;20;17;0;3;NA;4;3;NA;No;200;180$
+Female;Loyal Customer;28;Business Travel;Eco;2308;9;7;3;3;3;2;3;Neutral;Yes;351;428$
+Female;Disloyal Customer;42;PERSONAL TRAVEL;Business;803;11;16;3;3;2;3;1;Satisfied;No;98;353$
+Female;Loyal Customer;42;Business Travel;Eco;1482;1;4;0;3;3;2;1;Neutral;Yes;163;538$
+Female;Disloyal Customer;47;Business Travel;Business;691;29;27;3;2;1;4;5;Satisfied;Yes;98;395$
+Female;Loyal Customer;35;Business Travel;Eco;1385;1;4;2;2;3;3;4;Neutral;No;167;465$
+Female;Loyal Customer;44;Business Travel;Business;1375;14;21;3;2;4;3;3;Satisfied;NA;186;541$
+Male;Loyal Customer;45;Personal Travel;Business;1813;3;10;2;2;3;3;3;Neutral;No;200;443$
+Male;Loyal Customer;44;Business Travel;Eco;1522;27;22;1;5;4;5;2;Satisfied;No;182;368$
+Female;Loyal Customer;31;Business Travel;Business;1811;12;16;3;2;3;1;3;Neutral;Yes;224;613$
+Female;Loyal Customer;41;Business Travel;Eco;1851;14;12;2;2;1;1;4;Satisfied;Yes;179;259$
+Female;Loyal Customer;43;Business Travel;Business;2577;2;NA;3;3;3;2;4;Satisfied;No;286;468$
+Female;Loyal Customer;40;Business Travel;Business;1342;5;13;1;3;3;NA;2;Satisfied;No;192;614$
+Female;Loyal Customer;19;Business Travel;Eco;1029;9;9;3;2;2;5;4;Satisfied;No;130;179$
+Female;Loyal Customer;41;Business Travel;Business;1623;14;15;1;4;1;4;2;Dissatisfied;No;205;491$
+Female;Loyal Customer;62;Personal Travel;Business;1098;1;3;3;4;3;5;2;Satisfied;No;135;784$
+Female;Loyal Customer;36;Business Travel;Eco;2240;32;25;4;2;1;2;1;Dissatisfied;No;190;253$
+Male;Disloyal Customer;32;Business Travel;Business;1358;22;28;1;2;1;5;2;Dissatisfied;Yes;158;664$
+Female;Loyal Customer;43;Personal Travel;Eco;1217;3;6;3;5;3;2;5;Neutral;No;246;221$
+Male;Disloyal Customer;43;Business Travel;Business;1264;17;26;0;4;2;2;3;Satisfied;No;175;600$
+Female;Disloyal Customer;51;Business Travel;Business;1859;7;6;3;4;5;2;1;Satisfied;No;364;615$
+Female;Loyal Customer;27;Business Travel;Eco;1421;6;7;2;1;2;4;5;Dissatisfied;No;189;462$
+Male;Disloyal Customer;47;Business Travel;Business;1179;3;0;3;3;4;4;4;Satisfied;No;234;529$
+Female;Disloyal Customer;45;Business Travel;Business;2332;8;7;3;3;3;3;4;Satisfied;Yes;NA;748$
+Male;Loyal Customer;38;Personal Travel;Business;1071;13;12;5;2;4;5;5;Neutral;No;187;421$
+Female;Loyal Customer;43;Business Travel;Business;1517;5;14;3;3;2;3;2;Dissatisfied;No;176;573$
+Female;Disloyal Customer;50;Business Travel;Eco;1826;9;10;3;3;5;2;4;Dissatisfied;No;228;374$
+Male;Disloyal Customer;48;Personal Travel;Business;684;12;17;3;2;3;3;4;Satisfied;Yes;80;367$
+Female;Loyal Customer;28;Business Travel;Eco;1740;12;15;5;4;4;4;4;Neutral;No;221;321$
+Male;Loyal Customer;48;Business Travel;Eco;972;0;0;4;4;2;5;4;Satisfied;No;164;366$
+Female;Loyal Customer;39;Business Travel;Eco;1911;19;23;2;2;1;3;3;Satisfied;No;217;306$
+Male;Loyal Customer;40;NA;Eco Plus;1018;6;13;4;4;3;4;4;Dissatisfied;Yes;93;574$
+Male;Disloyal Customer;40;Business Travel;Business;1846;3;1;3;1;1;3;2;Satisfied;No;214;466$
+Female;Loyal Customer;38;Business Travel;Eco Plus;2052;2;11;4;4;3;4;3;Satisfied;Yes;278;517$
+Female;Loyal Customer;51;Business Travel;Business;1930;6;6;4;2;1;5;2;Satisfied;No;329;635$
+Male;Disloyal Customer;39;Business Travel;Eco;1625;21;23;1;1;3;1;5;Dissatisfied;No;244;348$
+Female;Loyal Customer;28;Business Travel;Eco;1384;4;11;4;3;5;5;2;Dissatisfied;Yes;159;263$
+Female;Loyal Customer;36;Business Travel;Business;1211;NA;14;2;3;3;4;3;Neutral;N ;126;473$
+Female;Disloyal Customer;41;Personal Travel;Eco;2235;1;6;2;NA;4;3;3;Dissatisfied;N ;266;228$
+Male;Disloyal Customer;52;Business Travel;Eco;1150;6;9;2;3;3;5;5;Satisfied;N ;125;171$
+Male;Loyal Customer;46;Business Travel;NA;981;47;52;4;2;3;3;3;Satisfied;N ;108;449$
+Male;Loyal Customer;31;Personal Travel;Business;1832;14;7;2;3;5;3;4;NA;N ;209;331$
+Male;Loyal Customer;64;Personal Travel;Eco;1101;2;0;0;3;4;2;4;Satisfied;N ;157;414$
+Male;Loyal Customer;42;Business Travel;Eco;1024;6;14;4;2;4;2;3;Satisfied;N ;123;411$
+Male;Loyal Customer;52;Business Travel;Eco Plus;778;2;12;1;4;2;5;3;Dissatisfied;N ;115;478$
+Male;Loyal Customer;38;Business Travel;Eco;1258;5;5;1;4;3;4;4;Satisfied;N ;156;408$
+Male;Loyal Customer;45;Personal Travel;Eco Plus;1458;15;18;2;4;2;5;5;Satisfied;Yes;171;346$
+Male;Loyal Customer;48;Personal Travel;Eco;1621;14;20;2;5;3;2;4;Satisfied;No;154;426$
+Female;Loyal Customer;52;Business Travel;Business;1975;2;10;3;2;3;2;2;Satisfied;No;327;488$
+Male;Loyal Customer;50;Personal Travel;Business;1763;25;19;NA;4;4;NA;4;Dissatisfied;No;202;490$
+Female;Loyal Customer;48;Business Travel;Eco;1404;8;8;5;3;4;3;3;Satisfied;No;137;424$
+Female;Loyal Customer;36;NA;Eco;1400;4;7;4;4;3;5;3;Satisfied;No;153;217$
+Female;Loyal Customer;34;Business Travel;Business;1755;6;14;2;3;1;4;4;Dissatisfied;NA;189;859$
+Male;Disloyal Customer;43;Personal Travel;Business;2136;9;26;2;5;NA;3;2;Satisfied;No;240;482$
+Male;Loyal Customer;49;Business Travel;Eco Plus;1563;8;11;3;4;1;5;4;Satisfied;No;157;414$
+Male;Disloyal Customer;37;Personal Travel;Eco;1265;6;3;3;5;3;4;3;Satisfied;Yes;198;405$
+Male;Disloyal Customer;50;Personal Travel;Eco;1003;7;14;1;4;1;1;4;Neutral;No;169;371$
+Female;Loyal Customer;54;Personal Travel;Eco;777;1;12;1;5;2;5;2;Dissatisfied;No;97;NA
+Male;Loyal Customer;30;Business Travel;Business;1833;16;21;4;4;5;3;3;Dissatisfied;No;385;563$
+Male;Loyal Customer;31;Business Travel;Business;NA;7;7;2;3;1;2;4;NA;No;181;399$
+Male;Loyal Customer;38;Business Travel;Business;1788;1;10;NA;2;NA;2;1;Dissatisfied;Yes;181;494$
+Male;Disloyal Customer;43;Business Travel;Business;1435;14;22;4;3;2;3;2;Satisfied;Yes;195;601$
+Male;Loyal Customer;34;Business Travel;Eco;2203;26;25;3;1;5;3;5;Satisfied;No;295;394$
+Female;Loyal Customer;53;Personal Travel;Eco;1257;29;35;2;3;4;3;2;Satisfied;No;159;402$
+Male;Loyal Customer;44;Business Travel;Eco;1977;4;13;3;3;2;2;5;Satisfied;No;244;337$
+Female;Loyal Customer;40;Business Travel;Eco;1480;1;11;0;3;1;4;2;Neutral;No;180;211$
+Male;Disloyal Customer;25;Business Travel;Business;1195;7;11;4;5;3;5;3;Neutral;Yes;135;655$
+Female;Loyal Customer;26;Business Travel;Eco;1796;1;4;3;5;2;4;4;Dissatisfied;Yes;232;493$
+Male;Loyal Customer;42;Business Travel;Eco;1704;27;38;4;2;3;3;4;Neutral;No;180;439$
+Male;Disloyal Customer;18;Business Travel;Eco;1678;2;0;5;3;1;2;3;Neutral;No;193;333$
+Female;Disloyal Customer;50;Personal Travel;Business;1540;2;9;5;3;1;2;3;Satisfied;No;217;584$
+Female;Loyal Customer;38;Business Travel;Eco;1481;5;3;5;3;3;2;4;Satisfied;No;148;692$
+Female;Loyal Customer;72;Personal Travel;Eco;2694;4;14;3;4;2;4;2;Neutral;No;451;291$
+Male;Loyal Customer;63;Personal Travel;Business;2092;15;18;2;3;4;4;3;Satisfied;Yes;266;348$
+Female;Loyal Customer;38;Business Travel;Business;1861;6;17;3;3;1;4;2;Dissatisfied;No;196;491$
+Male;Loyal Customer;NA;Personal Travel;Eco;1555;1;8;3;4;2;4;3;SATISFY;No;224;342$
+Male;Loyal Customer;49;NA;Eco;2003;3;1;4;4;5;3;2;SATISFY;Yes;236;189$
+Female;Loyal Customer;57;Personal Travel;Business;1758;7;19;2;1;3;3;NA;SATISFY;No;199;496$
+Female;Loyal Customer;23;Business Travel;Eco;1513;1;NA;5;4;4;4;3;SATISFY;No;225;388$
+Male;Disloyal Customer;22;Personal Travel;Business;1348;9;18;4;3;1;3;1;SATISFY;No;170;633$
+Male;Loyal Customer;33;Personal Travel;Eco;1459;8;9;5;2;3;2;1;Dissatisfied;No;187;411$
+Female;Loyal Customer;45;Personal Travel;Business;300;12;15;4;1;4;3;NA;Satisfied;No;41;566$
+Female;Loyal Customer;44;Personal Travel;Eco;1605;27;32;2;3;2;3;3;Neutral;Yes;140;63$
+Female;Disloyal Customer;50;Business Travel;Business;1255;24;25;1;3;4;1;4;Satisfied;Yes;183;642$
+Male;Loyal Customer;NA;Business Travel;Business;2296;29;42;1;NA;3;5;4;Satisfied;Yes;241;620$
+Male;Loyal Customer;18;Business Travel;Business;1509;2;7;2;4;2;5;1;Satisfied;No;203;575$
+Male;Disloyal Customer;48;Business Travel;Business;905;1;0;3;4;3;2;4;Dissatisfied;Yes;142;376$
+Male;Disloyal Customer;31;Business Travel;Eco;1475;3;9;4;2;3;1;1;Satisfied;No;180;272$
+Male;Disloyal Customer;19;Business Travel;Business;976;22;25;4;1;1;4;4;Dissatisfied;Yes;108;433$
+Male;Loyal Customer;41;Personal Travel;Eco;1736;35;39;3;4;3;2;5;Satisfied;No;185;78$
+Female;Loyal Customer;47;Business Travel;Business;1645;19;22;0;1;2;3;3;Dissatisfied;Yes;159;549$
+Male;Disloyal Customer;38;Personal Travel;Business;1978;1;10;1;5;3;1;4;Satisfied;No;159;400$
+Male;Disloyal Customer;35;Business Travel;Business;1104;29;NA;0;3;4;2;2;NEUTRSL;Yes;131;812$
+Male;Loyal Customer;38;Personal Travel;Business;1517;5;11;2;2;3;4;3;NEUTRSL;No;216;463$
+Female;Loyal Customer;36;Personal Travel;Business;817;0;3;3;2;5;5;4;Dissatisfied;No;94;609$
+Male;Loyal Customer;26;Business Travel;Eco;1850;5;9;0;1;2;2;2;Satisfied;No;243;193$
+Male;Disloyal Customer;32;Business Travel;Eco;1759;0;5;2;2;3;3;2;Satisfied;Yes;187;296$
+Female;Loyal Customer;45;Personal Travel;Eco;1747;7;7;1;1;4;NA;3;Satisfied;Yes;288;289$
+Male;Loyal Customer;43;Business Travel;Eco;1500;4;11;3;NA;3;1;4;Dissatisfied;No;129;259$
+Male;Loyal Customer;41;Business Travel;Eco;1707;6;13;3;2;3;5;3;NEUTRSL;No;183;307$
+Male;Loyal Customer;30;Business Travel;Business;2302;9;21;3;3;1;4;5;NEUTRSL;No;420;528$
+Male;Loyal Customer;38;Business Travel;Eco;1357;20;31;3;3;2;NA;1;Satisfied;No;195;326$
+Male;Loyal Customer;18;Business Travel;Eco Plus;1569;10;11;5;2;2;4;3;Satisfied;No;NA;585$
+Female;Disloyal Customer;41;Business Travel;Eco;956;5;14;2;1;5;5;4;NA;No;97;387$
+Female;Loyal Customer;54;Business Travel;Eco;1065;17;17;3;NA;2;5;2;Dissatisfied;No;174;397$
+Female;Loyal Customer;25;Business Travel;Business;1548;23;31;4;1;4;1;4;Neutral;No;170;603$
+Male;Loyal Customer;34;Personal Travel;Eco;2051;1;3;3;4;3;2;NA;Dissatisfied;Yes;403;341$
+Male;Loyal Customer;43;Business Travel;Eco;1371;7;6;5;2;2;4;1;Satisfied;No;174;341$
+Male;Loyal Customer;52;Personal Travel;Eco;1382;3;9;2;4;3;3;2;Neutral;Yes;142;247$
+Female;Loyal Customer;35;Business Travel;Eco Plus;1296;0;0;3;3;4;5;5;Neutral;No;180;416$
+Male;Loyal Customer;33;Business Travel;Business;1232;11;7;0;3;4;4;3;Satisfied;No;214;665$
+Male;Loyal Customer;20;Business Travel;Business;1647;19;23;3;3;1;5;4;Dissatisfied;No;200;662$
+Female;Loyal Customer;41;Business Travel;Eco;751;1;6;2;4;2;2;3;Dissatisfied;No;105;325$
+Male;Disloyal Customer;60;Business Travel;Eco;2140;16;19;1;2;2;5;3;Dissatisfied;No;239;426$
+Female;Loyal Customer;42;Business Travel;Business;1167;19;16;3;1;1;3;3;Dissatisfied;No;174;530$
+Female;Disloyal Customer;39;Business Travel;Business;1860;24;24;3;3;3;5;5;Satisfied;No;271;553$
+Female;Loyal Customer;43;Business Travel;Business;865;3;9;0;2;4;2;4;Satisfied;Yes;174;502$
+Male;Disloyal Customer;39;Business Travel;Business;1834;23;30;3;3;2;3;4;Dissatisfied;Yes;222;531$
+Male;Disloyal Customer;31;Business Travel;Eco;1835;3;7;3;3;4;4;1;Satisfied;No;236;484$
+Male;Loyal Customer;48;Business Travel;Eco;1692;8;18;1;3;3;3;3;Dissatisfied;Yes;272;359$
+Male;Loyal Customer;42;Personal Travel;Business;1002;0;6;3;3;2;3;3;Dissatisfied;No;NA;493$
+Male;Loyal Customer;40;Business Travel;Business;1624;0;1;4;3;1;5;5;NEUTRSL;No;170;405$
+Male;Loyal Customer;30;Business Travel;Business;908;12;15;3;4;4;3;2;NEUTRSL;No;118;519$
+Male;Disloyal Customer;53;Personal Travel;Business;1373;5;2;2;4;4;4;2;Satisfied;No;163;455$
+Female;Disloyal Customer;46;Business Travel;Eco;2014;2;6;2;NA;3;1;3;Satisfied;No;239;267$
+Male;Disloyal Customer;34;Business Travel;Eco Plus;1898;2;12;3;4;1;5;2;Satisfied;No;306;402$
+Female;Loyal Customer;50;Personal Travel;Eco;1507;11;19;5;4;2;4;2;Satisfied;No;135;237$
+Male;Disloyal Customer;35;Business Travel;Business;1012;0;12;3;3;1;3;4;Satisfied;Yes;138;557$
+Male;Disloyal Customer;32;Business Travel;Eco;1822;16;19;0;3;3;1;3;Satisfied;No;202;362$
+Male;Loyal Customer;32;Business Travel;Eco;1509;0;11;3;4;4;4;4;Dissatisfied;No;164;254$
+Female;Loyal Customer;22;Business Travel;Eco;339;2;6;4;3;1;1;4;Dissatisfied;No;43;310$
+Female;Disloyal Customer;44;Business Travel;Eco;1891;4;16;0;1;4;1;2;Satisfied;No;212;357$
+Female;Loyal Customer;21;Business Travel;Business;1487;6;10;5;4;3;4;3;Satisfied;No;177;668$
+Female;Disloyal Customer;27;Business Travel;Business;2101;4;12;5;1;3;2;1;Dissatisfied;No;357;575$
+Male;Loyal Customer;19;Business Travel;Business;952;3;15;0;4;5;2;5;Satisfied;No;126;483$
+Female;Disloyal Customer;39;Personal Travel;Business;300;33;37;5;4;1;4;3;Satisfied;No;42;519$
+Male;Loyal Customer;38;Personal Travel;Business;1639;10;16;2;5;5;1;3;Satisfied;Yes;224;650$
+Male;Loyal Customer;36;Business Travel;Eco;1645;0;11;4;1;1;3;3;Neutral;No;272;441$
+Female;Loyal Customer;29;Business Travel;Eco;654;5;9;3;3;2;2;3;Satisfied;No;67;404$
+Female;Disloyal Customer;28;Business Travel;Eco;1010;20;18;3;3;4;4;2;Dissatisfied;Yes;97;422$
+Female;Disloyal Customer;44;Business Travel;Business;2877;3;18;3;2;5;4;3;Satisfied;No;303;693$
+Female;Loyal Customer;34;Business Travel;Eco Plus;1347;0;2;4;1;3;4;4;Neutral;Yes;135;507$
+Female;Loyal Customer;43;Business Travel;Eco Plus;1865;14;19;0;3;3;3;4;NA;No;249;456$
+Female;Disloyal Customer;31;Personal Travel;Eco;1174;9;19;3;3;4;1;3;Satisfied;NA;166;386$
+Female;Loyal Customer;41;Business Travel;Eco Plus;454;8;9;1;1;4;1;3;Neutral;No;66;291$
+Female;Disloyal Customer;53;Business Travel;Eco;1414;0;0;2;3;1;3;4;Dissatisfied;No;157;199$
+Male;Loyal Customer;45;Business Travel;Eco Plus;1367;1;7;2;4;4;5;1;Dissatisfied;Yes;163;415$
+Female;Loyal Customer;35;Business Travel;Business;1300;9;5;3;4;NA;2;4;Neutral;Yes;164;556$
+Female;Loyal Customer;42;Personal Travel;Business;1442;2;5;2;5;3;3;2;Dissatisfied;No;145;425$
+Male;Loyal Customer;37;Personal Travel;Business;1632;7;13;1;3;3;2;4;Dissatisfied;No;189;562$
+Female;Disloyal Customer;40;Personal Travel;Business;1424;7;10;1;5;NA;4;3;Dissatisfied;No;211;293$
+Male;Loyal Customer;36;Business Travel;Business;867;3;0;0;4;5;4;NA; Satisfied;No;124;496$
+Male;Loyal Customer;38;Business Travel;Eco;1743;29;41;3;2;3;4;4; Satisfied;No;193;301$
+Female;Disloyal Customer;42;Business Travel;Eco;525;18;23;5;2;5;5;2;Satisfied;No;54;186$
+Male;Loyal Customer;30;Business Travel;Eco;474;12;24;1;3;1;3;NA;Neutral;No;53;499$
+Male;Loyal Customer;29;Business Travel;Business;1869;0;3;5;3;4;2;3;Satisfied;Yes;172;414$
+Male;Disloyal Customer;26;Personal Travel;Eco;1753;1;1;4;3;4;3;4;Satisfied;No;167;221$
+Male;Disloyal Customer;23;Business Travel;Eco;1471;6;12;3;NA;3;NA;2;Dissatisfied;No;169;440$
+Female;Loyal Customer;27;Business Travel;Business;802;1;4;3;4;3;4;4;Dissatisfied;Yes;118;614$
+Male;Disloyal Customer;41;Business Travel;Eco;1146;38;37;4;NA;3;3;3;Dissatisfied;No;189;239$
+Female;Disloyal Customer;31;Business Travel;Business;1368;1;13;1;1;4;4;2;Satisfied;No;184;618$
+Male;Loyal Customer;45;Business Travel;Business;702;6;7;3;4;4;NA;4;Neutral;No;76;578$
+Male;Loyal Customer;40;Personal Travel;Eco Plus;1130;4;0;3;2;1;5;1;Satisfied;No;105;563$
+Male;Disloyal Customer;20;Personal Travel;Business;NA;10;21;3;5;NA;4;3;Satisfied;Yes;211;520$
+Male;Disloyal Customer;46;Personal Travel;Eco;2213;1;3;4;1;3;4;1;Satisfied;No;226;265$
+Female;Loyal Customer;48;Business Travel;Eco;1290;5;6;0;5;2;2;3;Satisfied;Yes;169;264$
+Female;Disloyal Customer;30;Business Travel;Eco;1878;3;0;3;1;4;4;4;Satisfied;No;210;275$
+Male;Disloyal Customer;44;Business Travel;Business;542;21;34;3;2;3;5;3;Dissatisfied;No;58;467$
+Male;Loyal Customer;31;Business Travel;Business;1829;0;0;2;1;4;3;3;Satisfied;No;363;687$
+Female;Loyal Customer;40;Personal Travel;Business;1098;24;29;2;4;2;4;3;Dissatisfied;Yes;148;481$
+Male;Loyal Customer;27;Business Travel;Eco;1653;17;26;3;NA;1;4;2;Neutral;No;175;406$
+Male;Disloyal Customer;22;Business Travel;Eco;1376;3;10;4;3;3;NA;3;Satisfied;No;163;501$
+Male;Loyal Customer;36;Business Travel;Business;2160;15;19;3;5;1;4;5;Satisfied;No;348;314$
+Female;Loyal Customer;38;NA;Eco Plus;1062;0;0;4;3;4;2;4;Satisfied;No;243;527$
+Female;Disloyal Customer;36;Personal Travel;Eco;1813;34;34;3;3;2;5;2;Neutral;Yes;243;285$
+Female;Disloyal Customer;28;Business Travel;Business;1360;7;12;1;4;3;5;1;Satisfied;No;172;593$
+Male;Loyal Customer;36;Business Travel;Eco;1420;3;4;0;2;1;2;5;Satisfied;No;212;267$
+Male;Disloyal Customer;42;Business Travel;Eco;1408;4;10;NA;3;NA;2;3;Satisfied;No;171;274$
+Female;Loyal Customer;39;Business Travel;Business;1077;0;8;2;5;4;4;3;Neutral;No;122;598$
+Female;Disloyal Customer;41;Personal Travel;Business;1492;45;54;2;5;1;3;4;Dissatisfied;No;165;718$
+Female;Loyal Customer;33;Personal Travel;Eco;1468;0;0;4;5;3;1;3;Satisfied;No;328;380$
+Female;Loyal Customer;51;Personal Travel;Eco;1620;10;25;4;5;5;3;3;Dissatisfied;No;268;406$
+Male;Disloyal Customer;28;Personal Travel;Eco;1542;5;13;0;1;3;3;5;Neutral;Yes;204;260$
+Female;Loyal Customer;44;Business Travel;Eco;1898;29;33;2;4;NA;NA;4;Dissatisfied;Yes;214;289$
+Male;Loyal Customer;51;Business Travel;Business;1961;2;12;2;3;1;5;2;Dissatisfied;No;224;471$
+Female;Disloyal Customer;44;Business Travel;Business;974;7;23;3;NA;2;5;2;Neutral;Yes;111;501$
+Male;Disloyal Customer;37;Business Travel;Eco;1934;6;3;1;3;4;NA;2;Neutral;No;260;144$
+Female;Disloyal Customer;34;Personal Travel;Business;906;12;15;1;3;4;5;4;Dissatisfied;No;120;407$
+Female;Disloyal Customer;50;Business Travel;Business;1793;0;0;5;3;3;2;2;Satisfied;No;259;493$
+Female;Loyal Customer;25;Personal Travel;Eco;1809;2;7;4;2;3;3;1;Satisfied;No;197;262$
+Female;Loyal Customer;30;Business Travel;Eco Plus;544;2;8;1;1;3;2;5;Satisfied;No;82;413$
+Male;Loyal Customer;36;Business Travel;Eco;1546;13;17;3;4;1;4;2;Dissatisfied;Yes;166;386$
+Female;Loyal Customer;52;Business Travel;Eco;1265;2;3;2;4;4;5;1;Dissatisfied;No;152;348$
+Male;Disloyal Customer;43;Personal Travel;Business;1120;8;2;4;1;3;4;2;Satisfied;Yes;141;421$
+Male;NA;30;Business Travel;Eco Plus;2175;2;8;3;4;3;5;2;Neutral;No;310;203$
+Male;Loyal Customer;36;Business Travel;Business;1173;19;31;1;3;4;4;3;Satisfied;No;196;492$
+Male;Loyal Customer;33;Business Travel;Eco Plus;1096;28;30;4;3;2;3;5;Satisfied;No;155;302$
+Female;Disloyal Customer;32;Business Travel;Eco Plus;1537;7;14;2;2;2;3;4;Dissatisfied;No;204;446$
+Male;Loyal Customer;49;Business Travel;Eco;1842;4;1;2;4;4;1;3;Satisfied;No;414;440$
+Male;Loyal Customer;26;NA;Eco Plus;1429;2;9;2;4;4;1;3;Satisfied;No;185;423$
+Male;Loyal Customer;56;Business Travel;Eco;2083;0;3;3;3;3;4;3;Neutral;No;221;425$
+Female;Disloyal Customer;48;Business Travel;Business;1765;3;4;2;3;1;3;2;Dissatisfied;No;199;536$
+Female;NA;50;Business Travel;Eco;410;10;11;2;1;2;4;1;Satisfied;No;56;297$
+Female;Disloyal Customer;35;Business Travel;Eco;1235;7;10;2;3;3;4;5;Neutral;No;153;275$
+Female;Disloyal Customer;38;NA;Business;NA;28;34;0;2;2;3;2;Neutral;Yes;170;329$
+Male;Loyal Customer;25;Business Travel;Eco;1739;5;3;4;2;4;3;2;Satisfied;Yes;211;449$
+Male;Disloyal Customer;34;Business Travel;Eco Plus;300;11;14;1;4;5;3;3;Satisfied;Yes;29;382$
+Female;Disloyal Customer;44;Business Travel;Business;2774;6;10;0;5;4;3;3;Neutral;Yes;293;425$
+Male;Disloyal Customer;52;Personal Travel;Eco;1765;7;6;3;3;2;5;1;Satisfied;No;200;197$
+Male;Loyal Customer;28;Personal Travel;Eco Plus;1574;3;16;4;2;4;3;2;Dissatisfied;No;216;243$
+Male;Loyal Customer;36;Business Travel;Eco Plus;2090;6;6;4;3;2;4;3;Dissatisfied;No;229;404$
+Female;Disloyal Customer;38;Business Travel;Eco Plus;2671;6;7;3;4;1;5;4;Dissatisfied;No;488;506$
+Female;Loyal Customer;26;Business Travel;Eco;1935;12;12;2;4;1;5;2;Satisfied;No;253;315$
+Male;NA;45;Personal Travel;Eco Plus;1974;28;41;4;4;2;5;3;Dissatisfied;No;222;104$
+Female;Disloyal Customer;32;Business Travel;Eco;1565;3;10;3;3;5;3;3;Satisfied;No;171;331$
+Female;NA;38;Business Travel;Business;1429;0;0;2;4;2;1;4;Satisfied;No;158;534$
+Female;Loyal Customer;35;Business Travel;Eco;1262;6;16;5;1;2;3;3;Satisfied;No;149;327$
+Female;NA;32;NA;Eco;1086;7;13;1;2;5;3;2;Satisfied;No;140;287$
+Female;NA;39;Business Travel;Business;1156;1;7;5;3;1;5;3;Neutral;No;131;571$
+Male;Disloyal Customer;37;Personal Travel;Eco;NA;14;17;4;3;4;4;4;Satisfied;No;125;286$
+Female;Loyal Customer;36;Business Travel;Eco;1462;41;42;3;5;2;1;2;Satisfied;Yes;217;347$
+Male;Disloyal Customer;32;Business Travel;Business;657;29;35;5;4;1;2;3;Neutral;No;81;591$
+Male;Disloyal Customer;43;Business Travel;Eco;1595;2;4;4;1;5;2;1;Satisfied;No;193;307$
+Female;Loyal Customer;56;Personal Travel;Eco;1481;20;34;1;2;1;4;1;Neutral;No;281;231$
+Male;Loyal Customer;41;Business Travel;Eco;1573;12;10;3;3;3;4;3;Satisfied;No;181;488$
+Male;Loyal Customer;49;Personal Travel;Business;1238;6;18;0;2;2;5;2;Dissatisfied;No;135;535$
+Male;Loyal Customer;26;Business Travel;Business;3038;7;11;2;3;1;5;4;Dissatisfied;No;385;632$
+Female;Loyal Customer;41;Business Travel;Business;2180;18;24;4;5;1;2;4;Satisfied;No;188;672$
+Female;Disloyal Customer;29;Business Travel;Eco Plus;877;6;15;2;5;1;3;3;Satisfied;No;125;452$
+Male;Loyal Customer;25;Business Travel;Business;1616;4;5;2;4;1;2;3;Satisfied;No;216;642$
+Female;Loyal Customer;32;Business Travel;Eco;1195;6;15;3;4;4;3;3;Dissatisfied;No;161;192$
+Female;Loyal Customer;51;Personal Travel;Business;992;8;0;4;3;3;5;1;Satisfied;Yes;125;500$
+Female;Loyal Customer;49;Business Travel;Business;829;2;3;0;2;2;4;4;Satisfied;No;110;531$
+Female;Disloyal Customer;42;Business Travel;Eco;1716;23;23;2;3;3;4;5;Satisfied;Yes;291;517$
+Male;Loyal Customer;24;Business Travel;NA;1159;11;9;1;3;5;3;2;Satisfied;No;161;442$
+Male;Loyal Customer;38;Personal Travel;Business;1983;10;13;3;4;5;1;2;Satisfied;No;252;416$
+Female;Disloyal Customer;43;NA;Eco;NA;NA;7;1;2;4;1;2;Dissatisfied;Yes;202;317$
+Female;Loyal Customer;41;Business Travel;NA;2186;9;17;3;3;4;3;4;Satisfied;No;193;566$
+Male;Loyal Customer;21;Personal Travel;Eco;1073;1;7;2;3;2;4;4;Satisfied;No;107;325$
+Male;Loyal Customer;31;NA;Eco;1737;0;1;1;5;2;2;4;Dissatisfied;Yes;254;248$
+Female;Loyal Customer;39;Business Travel;Business;1816;7;13;5;3;3;4;4;Dissatisfied;Yes;261;586$
+Male;Loyal Customer;45;Personal Travel;Business;1262;5;10;0;4;3;5;3;Satisfied;No;162;457$
+Female;Loyal Customer;18;Personal Travel;Business;1114;8;17;3;4;3;3;4;Satisfied;No;104;508$
+Female;Loyal Customer;38;Business Travel;Eco Plus;2304;0;8;0;2;3;4;4;Satisfied;No;297;327$
+Male;Disloyal Customer;41;Business Travel;Eco Plus;1613;5;10;3;3;5;3;3;Dissatisfied;No;268;341$
+Male;Loyal Customer;48;Business Travel;Business;1817;1;1;3;4;4;4;3;Satisfied;No;250;667$
+Female;Loyal Customer;46;Personal Travel;Eco;1088;43;NA;2;3;3;4;4;Dissatisfied;No;119;174$
+Female;Disloyal Customer;45;Business Travel;Business;890;8;10;1;5;4;5;3;Neutral;No;98;452$
+Male;Loyal Customer;32;Business Travel;Business;1215;11;14;2;2;2;3;4;Neutral;No;157;544$
+Female;Disloyal Customer;20;Business Travel;Eco;1437;3;9;3;1;1;3;4;Satisfied;No;159;272$
+Male;Loyal Customer;36;Business Travel;Eco Plus;967;0;8;4;4;2;2;4;Satisfied;No;210;311$
+Female;Disloyal Customer;50;Business Travel;Eco Plus;1495;37;41;3;4;3;2;4;Satisfied;No;183;410$
+Male;Loyal Customer;53;Personal Travel;Eco;655;3;8;3;5;1;4;3;Satisfied;No;70;129$
+Male;Loyal Customer;47;Business Travel;Business;939;5;10;2;4;4;5;4;Neutral;No;139;449$
+Male;Loyal Customer;44;Business Travel;Eco;1835;10;12;2;5;2;3;3;Dissatisfied;Yes;272;555$
+Female;Disloyal Customer;43;Business Travel;Business;1801;0;0;1;4;3;2;2;Neutral;No;346;595$
+Female;Loyal Customer;34;Personal Travel;Eco;1304;16;12;2;4;1;3;1;Dissatisfied;No;125;205$
+Male;Loyal Customer;38;Business Travel;Business;991;7;8;2;3;1;3;3;Satisfied;No;143;591$
+Female;Loyal Customer;56;Business Travel;Eco;986;3;10;3;3;4;3;3;Satisfied;No;117;406$
+Male;Disloyal Customer;30;Personal Travel;Business;1313;0;1;3;5;3;2;5;Satisfied;No;147;579$
+Male;Loyal Customer;56;Personal Travel;Business;1822;1;4;5;3;5;4;3;Neutral;No;177;467$
+Female;Disloyal Customer;36;Personal Travel;Eco Plus;1964;22;29;1;3;5;1;3;Dissatisfied;No;252;427$
+Female;Loyal Customer;53;Personal Travel;Business;1251;11;NA;3;3;2;3;2;Neutral;Yes;173;276$
+Male;Loyal Customer;25;Business Travel;Eco;923;2;1;4;3;2;4;1;Satisfied;No;111;244$
+Female;Loyal Customer;45;Personal Travel;Business;1633;0;9;3;3;4;3;4;Satisfied;No;164;496$
+Female;Loyal Customer;32;Business Travel;Business;1088;11;21;2;1;5;4;2;Neutral;No;140;582$
+Male;Loyal Customer;25;Personal Travel;Business;1240;8;7;2;4;3;4;4;Satisfied;No;188;388$
+Male;Loyal Customer;42;Personal Travel;Business;2162;5;5;0;3;4;4;4;Dissatisfied;No;380;505$
+Female;Disloyal Customer;50;Personal Travel;Eco;1913;4;14;2;3;4;3;3;Dissatisfied;Yes;310;217$
+Male;Loyal Customer;31;Business Travel;Business;1578;2;6;4;1;2;3;4;Neutral;No;169;522$
+Male;Loyal Customer;25;Business Travel;Eco Plus;864;11;4;0;1;3;5;3;Satisfied;Yes;114;502$
+Female;Loyal Customer;39;Business Travel;Eco;1605;35;33;2;2;4;4;2;Satisfied;No;226;440$
+Male;Loyal Customer;39;Personal Travel;Eco;2031;1;4;4;4;3;3;4;Satisfied;No;293;180$
+Male;Loyal Customer;45;Personal Travel;Eco;1312;9;8;4;1;1;2;4;Satisfied;No;161;174$
+Female;Loyal Customer;49;Business Travel;Eco;2175;5;7;3;5;2;1;2;Satisfied;No;284;308$
+Female;Loyal Customer;39;Business Travel;Eco;2146;5;10;3;2;1;1;1;Neutral;No;282;347$
+Male;Disloyal Customer;58;Business Travel;Business;2331;2;14;2;2;2;4;1;Neutral;Yes;232;484$
+Male;Disloyal Customer;42;Personal Travel;Business;1652;17;20;1;2;5;1;2;Satisfied;No;160;584$
+Female;Loyal Customer;36;Personal Travel;Eco;1793;6;16;2;1;1;3;5;Satisfied;Yes;321;314$
+Female;Loyal Customer;23;Business Travel;Eco Plus;2207;7;19;3;4;2;4;3;Satisfied;Yes;259;440$
+Female;Disloyal Customer;37;Business Travel;Eco;1723;3;15;5;4;2;3;3;Satisfied;Yes;252;223$
+Female;Loyal Customer;36;Personal Travel;Eco;1249;2;8;0;3;3;4;4;Dissatisfied;No;163;396$
+Male;Loyal Customer;49;Personal Travel;Eco;1275;0;0;3;2;3;4;3;Satisfied;No;150;-2$
+Female;Loyal Customer;44;Business Travel;Eco;1619;12;19;2;2;2;2;3;Satisfied;No;210;433$
+Female;Disloyal Customer;28;Business Travel;Eco;854;2;12;3;3;1;4;5;Satisfied;No;102;443$
+Male;Disloyal Customer;41;Business Travel;Business;1428;11;15;0;5;2;4;4;Dissatisfied;Yes;158;506$
+Female;Loyal Customer;46;Business Travel;Eco;2048;4;17;2;2;3;3;4;Neutral;No;242;477$
+Male;Loyal Customer;55;Business Travel;Business;404;5;14;4;4;2;2;3;Satisfied;Yes;57;543$
+Female;Loyal Customer;48;Business Travel;Business;2267;6;13;3;3;5;3;4;Neutral;No;321;556$
+Female;Disloyal Customer;47;Personal Travel;Eco;2061;4;14;3;2;3;5;2;Dissatisfied;Yes;352;313$
+Female;Loyal Customer;40;Business Travel;Business;1270;1;7;2;3;1;4;3;Dissatisfied;No;189;868$
+Male;Loyal Customer;43;Personal Travel;Business;1771;3;0;2;1;4;2;5;Satisfied;No;161;614$
+Male;Disloyal Customer;52;Business Travel;Business;1501;10;12;2;4;2;4;2;Dissatisfied;No;220;620$
+Female;Loyal Customer;26;Business Travel;Eco Plus;2114;10;20;4;2;3;3;4;Dissatisfied;No;340;308$
+Male;Disloyal Customer;36;Business Travel;Eco;1991;3;3;5;4;2;4;3;Dissatisfied;No;234;364$
+Male;Loyal Customer;32;Business Travel;Eco;799;6;9;3;1;3;4;1;Neutral;Yes;101;268$
+Male;Loyal Customer;43;Personal Travel;Eco;NA;2;1;2;5;4;3;4;Neutral;No;232;362$
+Male;Loyal Customer;52;Personal Travel;Eco;1397;2;15;4;2;5;5;2;Satisfied;No;138;294$
+Male;Disloyal Customer;34;Business Travel;Business;1541;0;13;3;4;2;4;4;Dissatisfied;Yes;174;437$
+Male;Disloyal Customer;18;Business Travel;Eco;1135;22;22;3;4;2;4;1;Neutral;No;157;358$
+Female;Disloyal Customer;35;Personal Travel;Eco;2374;2;7;2;5;3;2;5;Neutral;Yes;322;195$
+Female;Loyal Customer;49;Business Travel;Eco;2020;2;3;4;3;5;5;2;Satisfied;No;278;365$
+Male;Disloyal Customer;45;Business Travel;Business;1130;3;11;3;4;5;5;2;Dissatisfied;Yes;121;464$
+Female;Loyal Customer;44;Personal Travel;Eco;832;1;8;4;3;1;2;2;Dissatisfied;No;110;282$
+Female;Loyal Customer;37;Business Travel;Eco;1307;10;19;4;2;1;3;5;Satisfied;No;246;425$
+Female;Disloyal Customer;27;Business Travel;Business;1717;0;6;2;3;3;3;4;Dissatisfied;Yes;216;544$
+Female;Loyal Customer;45;Business Travel;Eco;1620;1;20;4;2;1;4;4;Neutral;No;284;310$
+Male;Loyal Customer;31;Personal Travel;Business;2126;10;9;4;5;2;4;3;Dissatisfied;No;188;500$
+Female;Loyal Customer;61;Business Travel;Business;1894;4;0;2;1;1;2;3;Satisfied;No;289;619$
+Female;Loyal Customer;45;NA;Eco;1984;12;15;1;3;3;5;2;Satisfied;No;255;239$
+Male;Loyal Customer;34;Personal Travel;Business;1663;8;5;0;3;5;2;3;Dissatisfied;No;198;506$
+Male;Loyal Customer;33;Business Travel;Eco;805;2;0;3;3;5;4;2;Satisfied;No;106;481$
+Female;Loyal Customer;39;Personal Travel;Eco;1402;10;9;2;4;2;3;5;Dissatisfied;Yes;185;337$
+Female;Disloyal Customer;37;Business Travel;Business;2030;1;1;3;1;3;3;4;Satisfied;Yes;235;555$
+Female;Disloyal Customer;51;Personal Travel;Eco Plus;1474;7;7;1;3;4;2;3;Neutral;No;143;393$
+Female;Loyal Customer;41;Business Travel;Business;1751;5;12;4;2;1;2;2;Satisfied;Yes;191;595$
+Female;Loyal Customer;32;Business Travel;Business;1340;3;5;2;5;3;4;4;Neutral;No;131;625$
+Female;Loyal Customer;58;Business Travel;Business;985;9;13;2;4;3;4;2;Satisfied;No;153;347$
+Male;Loyal Customer;40;Business Travel;Business;1438;20;29;3;5;2;2;2;Satisfied;No;169;394$
+Female;Loyal Customer;47;Personal Travel;Business;1654;68;69;3;1;3;2;2;Satisfied;Yes;200;580$
+Female;Disloyal Customer;33;Personal Travel;Eco;1172;9;12;2;2;1;1;3;Satisfied;No;137;129$
+Male;Loyal Customer;43;Business Travel;Eco Plus;1382;5;11;2;2;3;4;4;Dissatisfied;No;137;440$
+Male;Loyal Customer;43;Business Travel;Business;1030;2;0;1;1;2;4;3;Dissatisfied;Yes;134;514$
+Male;Loyal Customer;21;Personal Travel;Eco;2059;2;0;4;2;2;1;1;Satisfied;No;278;180$
+Male;Loyal Customer;60;Personal Travel;Eco;1352;6;12;4;4;1;4;3;Dissatisfied;No;153;314$
+Female;Disloyal Customer;52;Business Travel;Eco;2226;4;11;3;2;4;1;4;Satisfied;Yes;417;370$
+Female;Disloyal Customer;36;NA;Eco;2264;24;39;4;3;3;5;2;Neutral;No;296;561$
+Female;Loyal Customer;28;Business Travel;Business;1459;4;9;4;4;3;5;2;Dissatisfied;Yes;187;487$
+Female;Disloyal Customer;43;Business Travel;Business;995;4;13;1;4;3;4;5;Dissatisfied;No;150;694$
+Female;Loyal Customer;40;Business Travel;Eco;457;4;8;5;3;3;5;5;Satisfied;No;47;385$
+Female;Disloyal Customer;43;Business Travel;Eco;763;18;24;4;3;1;5;5;Dissatisfied;No;119;283$
+Male;Disloyal Customer;41;Business Travel;Business;813;10;23;2;3;4;5;4;Satisfied;No;104;629$
+Female;Loyal Customer;45;Personal Travel;Business;2189;9;3;1;2;1;4;2;Dissatisfied;No;259;536$
+Male;Loyal Customer;54;Business Travel;Eco Plus;1557;4;11;1;3;1;3;2;Satisfied;No;155;403$
+Male;Loyal Customer;45;Business Travel;Eco;1694;17;32;1;3;4;2;3;Neutral;No;212;376$
+Female;Loyal Customer;29;Business Travel;Eco Plus;389;0;6;4;4;2;3;3;Neutral;Yes;41;340$
+Male;Disloyal Customer;53;Business Travel;Eco;901;20;33;3;4;2;4;5;NA;Yes;99;267$
+Female;Loyal Customer;56;Business Travel;Business;1943;7;8;4;3;3;2;4;Satisfied;No;237;625$
+Male;Loyal Customer;71;Business Travel;Eco;1643;5;9;4;3;3;3;4;Dissatisfied;No;258;327$
+Female;Disloyal Customer;28;Business Travel;Eco;1426;6;11;3;2;4;3;2;Satisfied;Yes;243;341$
+Male;Disloyal Customer;42;Business Travel;Business;1782;11;4;3;4;3;2;5;Neutral;Yes;218;577$
+Female;Loyal Customer;19;Business Travel;Eco;2317;0;0;0;3;3;4;4;Satisfied;No;322;376$
+Female;Loyal Customer;45;Business Travel;Eco;1389;20;19;2;2;4;5;2;Satisfied;No;148;207$
+Female;Loyal Customer;34;Personal Travel;Business;1534;5;14;3;2;2;4;4;Neutral;No;168;608$
+Female;Loyal Customer;59;Business Travel;Eco;1596;4;13;0;2;2;4;2;Satisfied;No;206;362$
+Female;Disloyal Customer;32;Personal Travel;Eco;2696;1;7;0;4;3;4;1;Satisfied;No;430;259$
+Male;Loyal Customer;23;Business Travel;Eco Plus;450;5;14;4;2;2;3;4;Satisfied;No;51;443$
+Male;Loyal Customer;35;Business Travel;Business;1841;6;10;3;3;5;2;4;Satisfied;No;284;573$
+Male;Loyal Customer;20;Business Travel;Business;1442;5;16;2;3;4;5;1;Dissatisfied;Yes;210;626$
+Female;Loyal Customer;47;Business Travel;Eco;1783;11;16;3;3;1;2;3;Dissatisfied;No;273;403$
+Male;Disloyal Customer;19;Personal Travel;Business;1171;5;10;4;4;1;1;5;Satisfied;No;150;551$
+Female;Disloyal Customer;40;Personal Travel;Eco;1475;32;35;2;4;1;4;4;Satisfied;No;151;415$
+Female;Loyal Customer;19;Personal Travel;Eco;1855;9;17;0;3;2;2;4;Satisfied;Yes;232;368$
+Male;Loyal Customer;36;Business Travel;Business;3056;16;18;5;1;1;3;2;Satisfied;No;416;533$
+Male;Loyal Customer;56;Business Travel;Eco;1904;1;10;2;3;3;1;1;Neutral;Yes;333;237$
+Female;Disloyal Customer;43;Business Travel;Eco;1075;5;4;1;3;4;2;2;Neutral;Yes;121;516$
+Male;Disloyal Customer;31;Business Travel;Business;1288;4;3;3;3;4;2;2;Satisfied;No;188;526$
+Female;Loyal Customer;39;Business Travel;Eco Plus;1273;8;16;4;4;2;1;2;Satisfied;No;155;352$
+Female;Disloyal Customer;40;Business Travel;Eco;602;19;23;2;2;2;4;2;Satisfied;No;80;176$
+Female;Disloyal Customer;44;Business Travel;Eco;1334;0;2;2;3;3;5;3;Dissatisfied;No;144;383$
+Female;Loyal Customer;26;Business Travel;Eco;1866;0;9;2;2;4;3;3;Dissatisfied;No;240;364$
+Female;Disloyal Customer;45;Personal Travel;Eco;862;18;19;5;4;4;5;4;Satisfied;No;108;128$
+Male;Loyal Customer;18;Personal Travel;Eco Plus;2024;2;5;1;2;5;2;2;Satisfied;No;231;375$
+Male;Loyal Customer;33;Personal Travel;Eco;1743;11;22;3;4;3;3;3;Dissatisfied;Yes;156;230$
+Female;Loyal Customer;35;Business Travel;Eco;1132;7;19;5;1;3;2;1;Dissatisfied;No;121;619$
+Female;Loyal Customer;46;Business Travel;Eco;1429;17;29;1;3;1;4;3;Satisfied;No;181;293$
+Male;Loyal Customer;40;Business Travel;Business;2299;1;4;5;4;3;3;1;Satisfied;Yes;287;506$
+Male;Disloyal Customer;25;Personal Travel;Eco;1866;1;12;5;2;2;4;5;Satisfied;No;258;192$
+Female;Loyal Customer;30;Business Travel;Business;1504;8;8;4;4;3;4;4;Neutral;No;228;677$
+Male;Disloyal Customer;41;Business Travel;Business;1381;29;29;2;3;3;3;3;Satisfied;No;192;512$
+Female;Loyal Customer;39;Personal Travel;Business;1538;5;0;3;3;2;4;1;Satisfied;No;224;407$
+Male;Loyal Customer;34;Business Travel;Eco Plus;1244;3;16;4;3;1;5;3;Neutral;No;138;470$
+Female;Loyal Customer;35;Business Travel;Eco;447;9;9;5;3;1;3;4;Satisfied;Yes;69;211$
+Male;Loyal Customer;46;Business Travel;Eco;2521;26;30;1;3;1;3;2;Dissatisfied;Yes;252;412$
+Female;Disloyal Customer;34;Business Travel;Eco;1577;18;18;4;3;1;4;3;Satisfied;No;172;528$
+Male;Loyal Customer;39;Business Travel;Eco;1699;54;62;2;4;1;4;4;Satisfied;No;211;406$
+Male;Loyal Customer;61;Business Travel;Eco Plus;1471;0;3;1;3;2;2;4;Neutral;No;183;463$
+Female;Loyal Customer;25;Business Travel;Eco;1132;1;0;3;2;2;3;4;Satisfied;No;158;437$
+Male;Disloyal Customer;21;Business Travel;Business;1407;9;16;4;2;5;3;4;Dissatisfied;No;167;720$
+Female;Disloyal Customer;47;Personal Travel;Business;700;17;14;3;1;2;3;5;Neutral;No;72;600$
+Male;Disloyal Customer;33;Business Travel;Eco;2638;3;3;3;2;1;2;3;Satisfied;Yes;379;393$
+Female;Loyal Customer;36;Business Travel;Eco;882;2;0;5;4;3;5;3;Dissatisfied;Yes;154;440$
+Male;Loyal Customer;32;Business Travel;Business;984;15;12;2;4;4;4;4;Satisfied;No;108;461$
+Female;Loyal Customer;37;Personal Travel;Business;1279;0;5;3;2;3;3;4;Dissatisfied;No;150;557$
+Male;Loyal Customer;55;Business Travel;Eco;2144;4;0;2;5;2;4;5;Satisfied;No;339;249$
+Female;Loyal Customer;48;Business Travel;Business;1507;7;4;2;3;3;5;1;Neutral;No;218;513$
+Male;Loyal Customer;48;Personal Travel;Eco;881;8;12;3;5;4;2;3;Satisfied;No;131;-28$
+Female;Loyal Customer;25;Personal Travel;Eco Plus;2127;13;15;5;4;4;3;2;Satisfied;No;307;370$
+Female;Loyal Customer;28;Business Travel;Eco;1865;4;18;3;4;3;3;2;Dissatisfied;No;248;285$
+Female;Disloyal Customer;18;Personal Travel;Business;1769;9;23;4;1;4;4;2;Dissatisfied;No;232;591$
+Male;Loyal Customer;31;Business Travel;Eco;1857;8;8;0;2;4;1;4;Satisfied;No;264;389$
+Female;Loyal Customer;49;Business Travel;Eco;2697;7;14;2;1;3;5;1;Satisfied;No;392;462$
+Male;Disloyal Customer;45;Business Travel;Eco;2592;10;18;3;4;3;3;4;Dissatisfied;Yes;338;241$
+Female;Loyal Customer;37;Business Travel;Eco Plus;1156;3;5;0;2;3;3;4;Dissatisfied;No;140;503$
+Male;Disloyal Customer;39;Personal Travel;Business;2311;0;0;2;4;4;3;2;Satisfied;No;307;690$
+Female;Loyal Customer;33;Business Travel;Eco;1691;1;5;3;2;1;2;2;Satisfied;No;173;426$
+Male;Loyal Customer;42;Business Travel;Eco;1749;2;6;0;4;5;4;4;Satisfied;No;199;429$
+Male;Disloyal Customer;47;Personal Travel;Eco;653;6;8;2;1;1;5;4;Dissatisfied;No;116;296$
+Female;Disloyal Customer;23;Personal Travel;Business;1414;18;25;3;2;3;3;4;Satisfied;Yes;160;427$
+Male;Disloyal Customer;42;Business Travel;Eco;1093;12;13;3;2;4;5;4;Satisfied;No;122;426$
+Male;Loyal Customer;49;Business Travel;Eco;1914;15;14;5;3;2;5;5;Dissatisfied;Yes;260;199$
+Female;Loyal Customer;35;Business Travel;Business;2035;4;9;3;2;3;3;3;Satisfied;Yes;353;508$
+Male;Loyal Customer;47;Personal Travel;Business;462;5;11;3;4;1;4;5;Satisfied;No;57;302$
+Male;Loyal Customer;68;Business Travel;Eco;1488;5;4;5;1;2;3;4;Satisfied;No;186;279$
+Male;Disloyal Customer;38;Personal Travel;Business;2060;2;11;4;3;1;4;4;Satisfied;No;326;544$
+Female;Loyal Customer;43;Business Travel;Business;1406;0;0;2;4;2;1;1;Satisfied;No;241;600$
+Male;Disloyal Customer;32;Business Travel;Business;1864;8;10;1;1;2;4;5;Neutral;No;236;555$
+Female;Loyal Customer;41;Business Travel;Eco;1675;45;48;3;5;5;1;3;Satisfied;Yes;218;367$
+Male;Loyal Customer;44;Business Travel;Eco;1670;1;2;3;5;5;5;4;Neutral;Yes;226;161$
+Male;Loyal Customer;41;Business Travel;Eco;1364;0;2;4;1;1;5;2;Dissatisfied;No;173;312$
+Male;Disloyal Customer;29;Personal Travel;Business;891;15;29;4;2;4;2;3;Dissatisfied;Yes;140;411$
+Female;Disloyal Customer;42;Business Travel;Eco;939;2;2;3;3;1;3;2;Satisfied;No;127;284$
+Male;Disloyal Customer;54;Business Travel;Eco;1854;17;34;5;4;1;3;2;Satisfied;No;210;409$
+Male;Disloyal Customer;44;Personal Travel;Eco;1509;12;19;3;3;1;4;2;Satisfied;No;201;193$
+Female;Disloyal Customer;49;Business Travel;Eco Plus;1430;29;34;1;3;5;3;4;Satisfied;Yes;260;339$
+Male;Disloyal Customer;37;Personal Travel;business;1288;5;12;4;4;5;4;1;Satisfied;No;176;271$
+Female;Loyal Customer;47;Business Travel;Eco;1347;10;27;2;1;1;3;3;Neutral;No;210;320$
+Female;Loyal Customer;42;Business Travel;Business;2023;6;6;4;4;1;1;2;Satisfied;Yes;240;441$
+Male;Loyal Customer;30;Business Travel;Eco;1332;9;8;5;4;2;1;3;Satisfied;No;157;357$
+Female;Disloyal Customer;43;Business Travel;Business;829;5;6;3;3;3;2;2;Satisfied;No;150;454$
+Male;Disloyal Customer;30;Personal Travel;Business;1871;2;7;3;4;3;4;2;Neutral;No;204;490$
+Female;Loyal Customer;33;Business Travel;Business;1397;7;3;3;4;2;5;3;Satisfied;No;220;535$
+Female;Disloyal Customer;41;Business Travel;Eco;1515;7;12;2;2;4;3;4;Neutral;Yes;146;517$
+Male;Disloyal Customer;42;Business Travel;Business;2303;16;29;2;3;2;3;2;Satisfied;No;290;599$
+Female;Loyal Customer;28;Business Travel;Eco;1489;13;18;3;3;5;2;2;Dissatisfied;No;242;166$
+Female;Loyal Customer;50;Personal Travel;Eco;1644;10;13;4;1;3;4;2;Dissatisfied;Yes;261;153$
+Female;Disloyal Customer;45;Business Travel;business;910;1;2;3;5;3;2;5;Satisfied;No;106;555$
+Female;Loyal Customer;32;Business Travel;Eco;1390;12;21;1;1;4;4;3;Satisfied;Yes;187;257$
+Female;Disloyal Customer;24;Personal Travel;Business;1804;6;6;3;4;4;5;3;Satisfied;No;229;183$
+Male;Loyal Customer;38;Business Travel;Eco;722;22;36;4;3;2;2;2;Satisfied;Yes;69;484$
+Female;Disloyal Customer;35;Personal Travel;Eco;1600;25;39;3;1;2;4;3;Neutral;No;230;352$
+Male;Disloyal Customer;41;Business Travel;Business;1550;0;6;3;5;5;1;1;Dissatisfied;No;191;602$
+Female;Disloyal Customer;36;Business Travel;Business;1520;17;21;4;4;1;3;1;Neutral;No;150;489$
+Male;Loyal Customer;19;Business Travel;Business;2018;0;10;3;3;1;2;3;Dissatisfied;No;240;592$
+Male;Disloyal Customer;36;Personal Travel;Eco Plus;1667;4;14;3;2;3;3;3;Satisfied;No;298;259$
+Female;Disloyal Customer;36;Personal Travel;Eco;2239;7;7;4;1;4;2;2;Satisfied;No;255;300$
+Female;Loyal Customer;46;Business Travel;Eco;1003;1;3;1;3;4;3;4;Dissatisfied;No;160;257$
+Female;Disloyal Customer;33;Business Travel;Eco;1567;13;11;5;2;5;3;5;Satisfied;No;154;501$
+Male;Loyal Customer;56;Business Travel;Business;1542;0;7;1;3;3;3;3;Neutral;No;227;392$
+Female;Loyal Customer;20;Business Travel;Eco;965;1;9;0;5;1;4;4;Satisfied;No;77;473$
+Male;Loyal Customer;53;Business Travel;Eco;1978;8;6;4;3;3;5;5;Satisfied;No;193;353$
+Male;Loyal Customer;37;Personal Travel;Business;2662;12;14;2;4;4;3;4;Dissatisfied;No;391;431$
+Male;Loyal Customer;48;Business Travel;Business;1491;24;22;4;4;1;2;3;Satisfied;Yes;185;566$
+Female;Disloyal Customer;40;Business Travel;Business;1752;12;12;4;3;1;3;4;Dissatisfied;No;191;623$
+Female;Loyal Customer;51;Business Travel;Eco;1542;11;18;4;4;1;5;2;Dissatisfied;Yes;168;486$
+Male;Disloyal Customer;36;Business Travel;Eco Plus;1143;5;6;5;3;3;4;3;Dissatisfied;No;131;431$
+Male;Loyal Customer;29;Business Travel;Business;589;0;3;2;4;4;3;2;Neutral;Yes;59;460$
+Female;Loyal Customer;54;Business Travel;Eco;1147;1;0;4;2;3;2;2;Neutral;No;146;355$
+Male;Loyal Customer;38;Personal Travel;Business;804;7;12;1;1;5;3;3;Dissatisfied;No;107;661$
+Female;Disloyal Customer;42;Business Travel;Eco Plus;2352;11;15;3;4;1;3;2;Satisfied;No;314;534$
+Male;Loyal Customer;52;Business Travel;Business;1442;5;6;4;3;5;5;4;Satisfied;No;155;640$
+Female;Disloyal Customer;29;Business Travel;Eco;1327;13;17;2;4;4;5;3;Neutral;No;155;429$
+Male;Disloyal Customer;45;Personal Travel;Eco;1944;7;12;3;5;2;1;3;Satisfied;No;230;349$
+Female;Disloyal Customer;34;Personal Travel;Eco;939;0;0;3;1;5;3;2;Satisfied;No;102;395$
+Male;Loyal Customer;38;Business Travel;Eco;1116;2;0;3;3;2;2;2;Satisfied;No;226;304$
+Female;Loyal Customer;40;Personal Travel;Business;1534;18;32;5;3;4;3;3;Neutral;No;181;344$
+Female;Disloyal Customer;24;Business Travel;Business;2014;12;13;0;3;4;5;5;Dissatisfied;No;241;556$
+Male;Loyal Customer;32;Business Travel;Business;1750;22;26;3;4;4;3;1;Satisfied;Yes;166;468$
+Male;Disloyal Customer;53;Business Travel;Business;1624;1;11;4;2;3;3;2;Dissatisfied;No;284;444$
+Female;Loyal Customer;48;Business Travel;Eco;1539;46;68;3;3;1;2;4;Neutral;No;148;277$
+Male;Disloyal Customer;39;Business Travel;Business;1700;2;0;0;4;3;5;1;Dissatisfied;No;209;798$
+Female;Disloyal Customer;42;Personal Travel;Business;1600;0;7;3;1;2;4;4;Neutral;No;183;493$
+Male;Disloyal Customer;37;Personal Travel;Eco;985;59;60;2;4;4;3;3;Dissatisfied;No;93;316$
+Female;Loyal Customer;53;Business Travel;Eco Plus;1523;3;5;1;3;4;2;3;Satisfied;No;172;277$
+Female;Disloyal Customer;37;Business Travel;Eco;963;11;12;4;5;5;3;3;Dissatisfied;Yes;111;165$
+Female;Loyal Customer;42;Business Travel;Business;1540;1;0;3;2;1;5;2;Satisfied;No;184;468$
+Female;Loyal Customer;51;Business Travel;Business;1259;8;12;5;1;4;3;3;Dissatisfied;Yes;173;693$
+Female;Disloyal Customer;32;Business Travel;Eco Plus;2769;23;20;4;3;5;3;4;Dissatisfied;No;347;433$
+Female;Disloyal Customer;55;Business Travel;Business;1480;3;12;3;1;4;3;4;Satisfied;No;213;609$
+Male;Disloyal Customer;24;Business Travel;Business;797;11;16;0;5;1;4;4;Satisfied;Yes;100;623$
+Male;Disloyal Customer;56;Personal Travel;Eco;1432;2;9;3;1;1;3;4;Dissatisfied;No;318;220$
+Male;Loyal Customer;36;Business Travel;Eco;1759;9;11;1;4;1;2;2;Satisfied;No;203;488$
+Female;Loyal Customer;37;Business Travel;Eco;2336;4;7;5;3;3;4;4;Dissatisfied;Yes;298;286$
+Female;Disloyal Customer;21;Personal Travel;Business;1205;2;8;1;3;3;4;3;Satisfied;No;160;620$
+Female;Loyal Customer;35;Business Travel;Business;708;3;2;2;1;5;4;4;Satisfied;Yes;84;594$
+Female;Loyal Customer;29;Business Travel;Eco Plus;1908;1;4;3;3;2;5;3;Dissatisfied;No;326;221$
+Male;Loyal Customer;33;Business Travel;Business;809;23;23;2;3;2;3;4;Neutral;No;74;475$
+Male;Loyal Customer;38;Business Travel;Eco;1281;5;5;2;2;3;1;4;Dissatisfied;No;163;171$
+Female;Loyal Customer;49;Personal Travel;Eco;1371;2;0;3;5;4;5;3;Satisfied;No;176;396$
+Male;Loyal Customer;42;Business Travel;Eco;1465;5;16;0;2;5;3;1;Neutral;No;223;347$
+Male;Loyal Customer;43;Business Travel;Business;1844;3;4;0;3;4;4;3;Neutral;Yes;229;327$
+Female;Loyal Customer;29;Personal Travel;Business;1158;13;23;2;3;3;4;3;Neutral;No;114;517$
+Male;Disloyal Customer;31;Personal Travel;Eco;1363;35;45;4;1;3;3;4;Neutral;No;142;226$
+Female;Loyal Customer;57;Personal Travel;Eco;1492;5;3;3;5;4;2;5;Neutral;Yes;160;131$
+Male;Loyal Customer;32;Business Travel;Eco Plus;1574;19;18;3;3;3;4;3;Satisfied;No;178;567$
+Female;Disloyal Customer;56;Business Travel;Business;1548;8;25;3;1;2;5;3;Satisfied;Yes;207;560$
+Female;Loyal Customer;37;Personal Travel;Business;1718;1;14;2;3;1;4;4;Dissatisfied;No;294;450$
+Female;Disloyal Customer;40;Personal Travel;Eco Plus;1921;11;15;5;3;1;3;2;Satisfied;No;249;290$
+Female;Disloyal Customer;50;Business Travel;Eco;1696;7;13;0;3;4;2;2;Neutral;No;221;198$
+Male;Loyal Customer;52;Business Travel;Eco;1726;10;11;3;4;1;1;5;Satisfied;No;180;219$
+Female;Loyal Customer;38;Business Travel;Business;708;22;29;4;1;2;3;4;Neutral;No;83;678$
+Female;Disloyal Customer;36;Personal Travel;Eco;1525;5;6;4;2;2;3;1;Dissatisfied;Yes;146;232$
+Female;Disloyal Customer;39;Business Travel;Eco;1739;23;17;1;4;3;5;2;Satisfied;No;177;352$
+Male;Loyal Customer;43;Business Travel;Eco;1864;13;11;2;1;2;4;4;Satisfied;No;254;145$
+Female;Disloyal Customer;48;Business Travel;Eco;1153;6;11;4;4;3;4;4;Satisfied;No;217;218$
+Male;Loyal Customer;40;Business Travel;Business;1170;9;8;0;1;1;3;4;Neutral;No;116;610$
+Female;Disloyal Customer;46;Personal Travel;Eco;1212;3;7;4;4;1;2;2;Dissatisfied;Yes;120;317$
+Male;Loyal Customer;56;Business Travel;Business;1768;41;40;4;3;3;5;5;Satisfied;No;297;725$
+Male;Disloyal Customer;43;Personal Travel;Eco;2016;11;12;4;3;2;3;3;Dissatisfied;Yes;196;414$
+Female;Disloyal Customer;43;Personal Travel;Eco Plus;1296;0;9;1;2;2;2;4;Satisfied;Yes;151;306$
+Male;Disloyal Customer;24;Business Travel;Business;1953;3;9;4;1;1;3;3;Satisfied;No;236;597$
+Female;Loyal Customer;18;Business Travel;Eco;1561;9;13;3;2;4;5;2;Dissatisfied;Yes;149;318$
+Female;Loyal Customer;43;Business Travel;Business;1437;0;9;4;1;3;5;5;Satisfied;Yes;143;755$
+Female;Loyal Customer;39;Personal Travel;Eco;1394;0;7;0;2;1;1;2;Satisfied;No;155;394$
+Male;Loyal Customer;34;Business Travel;Eco Plus;1873;5;17;0;3;1;5;2;Satisfied;Yes;215;416$
+Male;Loyal Customer;42;Business Travel;Business;1662;4;6;2;3;5;3;4;Satisfied;Yes;186;570$
+Female;Disloyal Customer;39;Personal Travel;Business;2637;5;7;1;4;3;1;4;Satisfied;Yes;356;624$
+Female;Loyal Customer;51;Business Travel;Eco;1073;3;1;3;4;3;5;4;Satisfied;Yes;135;407$
+Male;Loyal Customer;40;Personal Travel;Business;1759;1;3;5;3;4;5;3;Neutral;No;264;635$
+Female;Disloyal Customer;32;Business Travel;Eco;1235;11;20;2;3;4;4;3;Satisfied;No;164;130$
+Female;Disloyal Customer;49;Business Travel;Eco Plus;1065;7;18;4;3;4;4;5;Neutral;No;142;446$
+Female;Disloyal Customer;37;Business Travel;Eco;1494;2;11;0;3;3;5;1;Satisfied;No;212;298$
+Male;Disloyal Customer;45;Personal Travel;Business;1568;3;0;1;4;3;4;4;Satisfied;Yes;191;655$
+Male;Loyal Customer;35;Business Travel;Eco;2959;8;18;0;2;1;5;2;Neutral;Yes;393;504$
+Male;Loyal Customer;33;Personal Travel;Eco;1407;0;0;2;1;5;4;4;Dissatisfied;Yes;160;283$
+Female;Disloyal Customer;40;Personal Travel;Business;934;1;10;5;4;3;5;2;Satisfied;No;167;633$
+Female;Disloyal Customer;40;Business Travel;Eco;1636;0;3;0;2;2;5;3;Dissatisfied;No;208;528$
+Female;Loyal Customer;44;Personal Travel;Eco;462;16;24;3;4;5;2;4;Neutral;No;56;287$
+Male;Disloyal Customer;37;Business Travel;Eco;1454;13;11;3;4;5;5;3;Neutral;No;192;597$
+Female;Loyal Customer;21;Business Travel;Business;1508;13;23;5;1;5;3;4;Neutral;Yes;194;546$
+Female;Loyal Customer;35;Business Travel;Eco;1897;12;9;1;1;4;3;4;Satisfied;No;337;328$
+Female;Loyal Customer;47;Personal Travel;Business;1986;11;12;2;3;5;4;4;Satisfied;No;232;566$
+Female;Loyal Customer;37;Business Travel;Business;1248;6;6;0;3;2;1;5;Neutral;No;139;514$
+Male;Loyal Customer;37;Business Travel;Eco;1424;10;6;3;2;4;3;3;Satisfied;No;162;358$
+Male;Loyal Customer;49;Business Travel;Eco;1116;0;5;2;4;4;5;2;Dissatisfied;No;116;490$
+Female;Disloyal Customer;32;Business Travel;Business;935;9;23;4;3;2;2;1;Satisfied;No;112;551$
+Male;Loyal Customer;24;Business Travel;Business;1654;15;33;3;2;1;3;2;Satisfied;No;189;380$
+Male;Loyal Customer;38;Personal Travel;Business;863;6;11;3;1;5;5;2;Dissatisfied;No;104;516$
+Female;Disloyal Customer;35;Personal Travel;Business;1292;4;14;3;4;2;3;3;Satisfied;No;143;410$
+Female;Disloyal Customer;30;Business Travel;Business;1002;3;9;0;2;4;3;2;Neutral;Yes;177;636$
+Male;Disloyal Customer;38;Personal Travel;Business;1774;10;17;3;4;1;3;1;Neutral;No;266;549$
+Female;Disloyal Customer;44;Business Travel;Eco;2400;11;14;5;3;1;3;1;Dissatisfied;No;231;497$
+Male;Disloyal Customer;39;Personal Travel;Eco;849;20;25;4;3;3;4;4;Dissatisfied;Yes;197;370$
+Female;Loyal Customer;43;Business Travel;Eco;573;4;11;4;4;2;5;3;Neutral;No;73;459$
+Male;Loyal Customer;58;Business Travel;Eco;1437;14;16;4;4;3;3;3;Neutral;Yes;147;283$
+Female;Loyal Customer;36;Business Travel;Business;1507;8;12;1;3;3;5;4;Dissatisfied;No;191;630$
+Male;Loyal Customer;42;Personal Travel;Eco Plus;1609;21;25;2;2;1;3;1;Satisfied;No;217;526$
+Male;Loyal Customer;34;Business Travel;Eco;1276;7;16;0;4;1;3;5;Satisfied;No;155;281$
+Male;Disloyal Customer;31;Business Travel;Eco;1399;7;6;2;3;2;4;4;Satisfied;Yes;187;529$
+Female;Loyal Customer;34;Business Travel;Eco;1683;8;12;1;2;1;4;2;Satisfied;No;209;295$
+Male;Loyal Customer;35;Business Travel;Eco Plus;2020;13;27;3;5;4;4;4;Neutral;No;289;314$
+Male;Loyal Customer;43;Business Travel;Eco;522;33;43;3;2;3;1;4;Neutral;No;54;379$
+Female;Disloyal Customer;63;Personal Travel;Business;1315;0;11;4;1;1;2;3;Neutral;No;129;551$
+Female;Loyal Customer;32;Personal Travel;Eco;1606;0;5;4;1;3;3;4;Satisfied;No;205;371$
+Male;Disloyal Customer;35;Business Travel;Eco;1041;27;33;5;3;1;3;2;Dissatisfied;No;175;253$
+Male;Loyal Customer;39;Personal Travel;Eco;2365;7;17;0;4;1;4;2;Satisfied;Yes;327;323$
+Female;Loyal Customer;43;Business Travel;Eco;1182;9;21;0;2;2;1;1;Neutral;Yes;153;281$
+Female;Loyal Customer;42;Personal Travel;Business;1479;6;1;3;2;4;4;2;Neutral;No;168;331$
+Female;Disloyal Customer;52;Personal Travel;Business;1778;0;0;2;2;5;3;2;Satisfied;Yes;274;387$
+Female;Loyal Customer;18;Business Travel;Eco Plus;1204;14;25;2;4;4;3;5;Satisfied;No;175;324$
+Female;Disloyal Customer;18;Personal Travel;Eco;576;13;16;2;1;2;3;1;Satisfied;Yes;65;332$
+Male;Loyal Customer;35;Business Travel;Eco;1285;3;4;2;5;2;2;3;Dissatisfied;No;136;465$
+Female;Loyal Customer;50;Business Travel;Business;2014;3;1;3;2;3;5;3;Dissatisfied;No;284;402$
+Male;Disloyal Customer;24;Personal Travel;Business;1331;18;20;3;5;4;1;4;Neutral;No;221;515$
+Male;Disloyal Customer;18;Business Travel;Eco;1076;0;0;3;2;5;3;5;Satisfied;No;83;232$
+Male;Disloyal Customer;45;Business Travel;Eco;1962;21;36;3;4;1;5;4;Satisfied;Yes;213;412$
+Female;Disloyal Customer;42;Business Travel;Eco;1334;2;6;2;2;1;4;5;Dissatisfied;No;175;287$
+Male;Disloyal Customer;29;Personal Travel;Eco;1244;8;12;2;1;3;3;4;Dissatisfied;No;133;174$
+Male;Disloyal Customer;30;Business Travel;Eco;1574;27;34;1;4;4;3;5;Satisfied;No;201;429$
+Female;Disloyal Customer;30;Business Travel;Business;1885;11;20;2;4;4;4;4;Satisfied;No;202;491$
+Male;Disloyal Customer;41;Personal Travel;Eco;2690;5;14;4;3;3;5;1;Dissatisfied;No;326;248$
+Male;Disloyal Customer;33;Personal Travel;Eco;1913;11;21;4;4;5;5;3;Satisfied;No;235;58$
+Female;Disloyal Customer;44;Business Travel;Eco;2079;4;5;3;3;3;3;4;Satisfied;No;265;444$
+Male;Disloyal Customer;18;Business Travel;Eco;1247;3;6;2;4;5;5;3;Satisfied;No;213;432$
+Male;Loyal Customer;31;Business Travel;Eco Plus;987;57;65;3;2;5;1;2;Neutral;No;90;400$
+Male;Disloyal Customer;28;Business Travel;Business;1531;13;15;3;3;4;1;3;Dissatisfied;No;232;397$
+Female;Disloyal Customer;37;Business Travel;Eco;1553;10;14;3;3;2;5;5;Dissatisfied;No;260;470$
+Female;Loyal Customer;34;Personal Travel;Business;960;4;10;3;3;1;2;1;Neutral;Yes;124;413$
+Female;Disloyal Customer;47;Business Travel;Eco;1412;0;8;3;4;3;1;4;Neutral;No;215;304$
+Male;Loyal Customer;21;Business Travel;Business;1699;0;0;3;2;3;2;4;Satisfied;No;214;781$
+Male;Loyal Customer;40;Business Travel;Business;1680;8;16;4;1;4;3;5;Neutral;No;186;479$
+Female;Disloyal Customer;45;Personal Travel;Eco;1752;14;17;1;3;1;4;5;Satisfied;No;184;354$
+Male;Loyal Customer;58;Business Travel;Business;1645;7;15;4;4;2;4;4;Neutral;No;178;606$
+Male;Disloyal Customer;35;Personal Travel;Eco;1246;18;26;1;2;4;2;3;Satisfied;No;165;319$
+Female;Disloyal Customer;43;Business Travel;Eco Plus;1243;0;13;0;3;1;3;2;Satisfied;No;153;428$
+Female;Loyal Customer;21;Business Travel;Business;900;4;15;5;5;2;5;3;Satisfied;No;104;587$
+Male;Loyal Customer;18;Business Travel;Eco;2392;2;13;5;2;2;5;4;Satisfied;Yes;445;377$
+Male;Loyal Customer;48;Business Travel;Eco;1506;5;17;0;4;3;3;4;Satisfied;Yes;170;344$
+Male;Disloyal Customer;39;Business Travel;Eco;1387;0;6;3;4;1;5;4;Satisfied;Yes;238;501$
+Female;Disloyal Customer;51;Business Travel;Business;1035;30;35;1;3;4;4;2;Dissatisfied;No;93;418$
+Female;Disloyal Customer;26;Business Travel;Business;2967;2;11;3;5;3;1;3;Satisfied;No;401;652$
+Female;Loyal Customer;45;Personal Travel;Business;963;25;33;4;4;5;1;3;Neutral;Yes;124;562$
+Female;Disloyal Customer;58;Business Travel;Business;1285;5;8;5;3;3;2;1;Dissatisfied;No;187;619$
+Male;Loyal Customer;44;Personal Travel;Business;1707;42;49;3;3;2;4;2;Dissatisfied;No;241;591$
+Female;Disloyal Customer;42;Business Travel;Eco;1800;8;12;2;4;1;2;2;Neutral;Yes;157;340$
+Female;Loyal Customer;40;Business Travel;Eco;1978;26;26;3;3;1;3;4;Dissatisfied;No;210;163$
+Female;Disloyal Customer;24;Business Travel;Eco;2403;0;11;2;4;3;1;2;Satisfied;No;423;342$
+Female;Loyal Customer;53;Business Travel;Eco;1753;13;18;5;3;1;5;2;Satisfied;No;170;250$
+Female;Disloyal Customer;33;Business Travel;Business;971;23;38;4;2;2;3;5;Satisfied;No;99;476$
+Male;Loyal Customer;45;Business Travel;Business;1371;1;0;3;2;3;5;3;Neutral;No;180;425$
+Male;Disloyal Customer;24;Business Travel;Business;1653;1;3;2;1;2;5;1;Neutral;No;195;502$
+Female;Disloyal Customer;28;Business Travel;Business;2534;5;10;2;1;1;1;2;Satisfied;No;317;490$
+Male;Loyal Customer;54;Business Travel;Eco;801;27;37;0;4;4;3;2;Satisfied;No;73;112$
+Female;Disloyal Customer;36;Personal Travel;Eco;2101;7;13;4;4;5;1;2;Neutral;No;308;350$
+Female;Disloyal Customer;54;Personal Travel;Business;1589;7;13;3;4;1;5;1;Satisfied;No;193;702$
+Male;Loyal Customer;39;Personal Travel;Business;1918;1;0;2;3;1;3;3;Neutral;No;260;540$
+Male;Loyal Customer;21;Personal Travel;Eco;1449;0;0;3;4;5;1;2;Neutral;Yes;247;259$
+Female;Disloyal Customer;48;Business Travel;Eco;1078;16;22;4;3;1;2;3;Dissatisfied;No;95;344$
+Female;Loyal Customer;34;Business Travel;Business;1875;0;0;1;4;5;3;4;Dissatisfied;No;301;507$
+Female;Loyal Customer;46;Personal Travel;Eco Plus;1827;10;12;4;3;1;5;3;Dissatisfied;No;219;339$
+Male;Loyal Customer;40;Business Travel;Eco Plus;1986;24;31;4;5;4;4;5;Satisfied;Yes;368;396$
+Female;Disloyal Customer;24;Business Travel;Business;1493;2;2;5;4;2;5;3;Dissatisfied;Yes;201;465$
+Female;Loyal Customer;41;Business Travel;Business;1200;10;23;2;2;5;3;3;Neutral;No;139;718$
+Female;Disloyal Customer;61;Business Travel;Eco;720;0;11;2;3;2;1;4;Satisfied;Yes;106;201$
+Male;Disloyal Customer;44;Business Travel;Eco Plus;1909;9;6;2;3;3;5;1;Satisfied;No;214;471$
+Female;Disloyal Customer;39;Personal Travel;Eco;1711;1;1;2;1;1;1;1;Satisfied;No;225;269$
+Female;Disloyal Customer;50;Business Travel;Business;1017;13;6;1;3;2;5;4;Satisfied;No;104;740$
+Male;Loyal Customer;42;Business Travel;Business;1230;3;4;3;2;4;3;3;Neutral;Yes;122;584$
+Female;Disloyal Customer;42;Personal Travel;Eco;1266;6;14;3;1;3;1;4;Dissatisfied;Yes;177;244$
+Female;Loyal Customer;29;Business Travel;Eco;758;9;11;4;5;5;4;5;Satisfied;Yes;93;325$
+Male;Loyal Customer;42;Business Travel;Business;1091;1;8;0;3;3;5;3;Satisfied;Yes;131;553$
+Female;Loyal Customer;50;Business Travel;Eco;933;13;10;3;4;4;5;3;Dissatisfied;No;104;235$
+Male;Loyal Customer;31;Personal Travel;Eco;1293;3;11;4;4;3;2;3;Satisfied;No;161;203$
+Male;Disloyal Customer;54;Personal Travel;Eco;1130;10;12;4;3;5;2;5;Satisfied;Yes;136;101$
+Female;Disloyal Customer;39;Business Travel;Eco;686;1;6;4;3;5;4;4;Neutral;Yes;89;257$
+Female;Loyal Customer;31;Personal Travel;Eco;2511;11;15;4;4;2;4;5;Neutral;Yes;307;289$
+Female;Loyal Customer;49;Business Travel;Eco;2126;1;0;5;5;4;4;2;Satisfied;No;213;380$
+Female;Disloyal Customer;37;Personal Travel;Eco;1110;5;4;2;2;4;2;4;Satisfied;No;123;82$
+Male;Loyal Customer;47;Personal Travel;Business;1636;2;11;3;4;2;5;2;Satisfied;No;180;466$
+Female;Loyal Customer;37;Personal Travel;Eco;1708;13;19;0;5;3;4;2;Neutral;No;188;336$
+Male;Loyal Customer;39;Business Travel;Business;2095;3;13;0;4;1;5;5;Neutral;No;269;533$
+Female;Disloyal Customer;44;Personal Travel;Eco;1090;21;27;2;5;4;3;1;Satisfied;No;128;216$
+Female;Disloyal Customer;42;Personal Travel;Business;2046;22;27;1;3;1;3;5;Neutral;Yes;321;438$
+Female;Loyal Customer;20;Business Travel;Business;1226;2;0;2;5;1;5;2;Dissatisfied;No;123;495$
+Male;Loyal Customer;28;Personal Travel;Business;832;9;12;1;4;3;4;4;Satisfied;Yes;217;416$
+Female;Disloyal Customer;49;Business Travel;Business;1862;0;4;0;1;3;5;2;Satisfied;No;236;567$
+Female;Disloyal Customer;38;Personal Travel;Eco;2145;4;18;5;5;4;5;3;Neutral;Yes;220;510$
+Female;Loyal Customer;34;Business Travel;Eco;2793;12;20;0;3;5;4;2;Satisfied;No;469;275$
+Female;Disloyal Customer;26;Personal Travel;Eco;900;10;22;4;3;3;3;3;Satisfied;Yes;104;248$
+Male;Loyal Customer;29;Business Travel;Business;1849;9;16;1;3;1;1;3;Neutral;No;264;544$
+Female;Loyal Customer;19;Business Travel;Business;1295;3;4;5;1;4;1;4;Dissatisfied;No;173;481$
+Male;Disloyal Customer;38;Business Travel;Business;1891;4;9;4;3;3;2;1;Dissatisfied;No;200;659$
+Male;Loyal Customer;34;Business Travel;Business;764;1;7;3;4;3;2;1;Neutral;No;92;312$
+Male;Disloyal Customer;30;Business Travel;Eco;868;12;12;3;1;2;3;1;Dissatisfied;No;175;296$
+Male;Loyal Customer;39;Business Travel;Business;1112;7;10;0;2;3;3;3;Satisfied;No;170;631$
+Male;Loyal Customer;43;Business Travel;Business;1539;12;15;5;1;2;3;4;Neutral;No;162;520$
+Male;Disloyal Customer;60;Business Travel;Business;1179;2;15;4;3;4;3;4;Satisfied;Yes;135;467$
+Female;Loyal Customer;24;Business Travel;Business;1829;3;0;4;4;3;1;2;Satisfied;No;172;594$
+Male;Disloyal Customer;51;Personal Travel;Eco;2013;4;15;3;4;4;1;3;Dissatisfied;No;191;370$
+Male;Loyal Customer;49;Business Travel;Eco;1799;0;0;2;5;3;4;4;Neutral;No;240;371$
+Male;Loyal Customer;32;Personal Travel;Business;2309;4;2;4;3;2;3;2;Satisfied;No;196;399$
+Female;Loyal Customer;42;Personal Travel;Business;1707;16;26;2;2;4;3;3;Dissatisfied;No;212;525$
+Female;Disloyal Customer;35;Business Travel;Business;891;22;30;3;5;3;4;3;Satisfied;No;135;509$
+Male;Loyal Customer;41;Business Travel;Business;2181;7;18;0;4;2;5;2;Satisfied;No;309;624$
+Female;Disloyal Customer;55;Personal Travel;Business;1197;6;15;5;3;3;3;1;Satisfied;No;259;628$
+Male;Loyal Customer;46;Business Travel;Eco Plus;1955;0;15;1;4;2;4;2;Dissatisfied;Yes;187;139$
+Male;Disloyal Customer;45;Business Travel;Eco;2286;21;28;2;5;4;5;4;Dissatisfied;Yes;219;361$
+Female;Loyal Customer;35;Business Travel;Eco;1728;0;4;3;4;3;5;1;Satisfied;No;266;176$
+Male;Disloyal Customer;25;Personal Travel;Eco;751;28;34;4;3;4;3;2;Neutral;No;98;524$
+Female;Disloyal Customer;37;Business Travel;Eco;1040;6;17;3;4;1;4;3;Satisfied;No;127;303$
+Female;Disloyal Customer;52;Business Travel;Eco;2161;4;5;2;1;2;2;1;Dissatisfied;Yes;329;424$
+Male;Disloyal Customer;24;Personal Travel;Eco;1415;25;26;0;3;5;4;2;Satisfied;No;263;276$
+Male;Disloyal Customer;29;Personal Travel;Eco;1539;0;3;4;3;4;5;5;Satisfied;No;200;199$
+Female;Disloyal Customer;41;Business Travel;Business;1879;8;2;5;2;1;3;1;Dissatisfied;No;249;457$
+Male;Loyal Customer;30;Business Travel;Eco;1848;7;12;4;1;2;5;4;Satisfied;No;249;508$
+Male;Loyal Customer;32;Personal Travel;Eco;1639;2;0;3;1;2;3;3;Satisfied;No;196;375$
+Male;Disloyal Customer;35;Business Travel;Eco;1395;5;10;5;4;3;5;4;Neutral;Yes;137;544$
+Female;Disloyal Customer;26;Business Travel;Eco;1343;10;19;3;4;4;4;3;Dissatisfied;No;177;355$
+Female;Disloyal Customer;30;Business Travel;Eco;1928;12;14;3;5;4;1;2;Satisfied;No;233;378$
+Male;Loyal Customer;47;Personal Travel;Business;1776;0;13;3;2;3;4;4;Satisfied;No;195;453$
+Female;Loyal Customer;26;Business Travel;Eco;1371;27;24;3;3;4;3;3;Satisfied;Yes;155;321$
+Female;Loyal Customer;24;Personal Travel;Business;2041;1;11;4;5;3;1;4;Neutral;No;288;375$
+Female;Disloyal Customer;33;Personal Travel;Business;1435;2;10;3;2;1;5;3;Satisfied;Yes;176;488$
+Female;Loyal Customer;47;Business Travel;Business;1074;3;0;2;4;3;3;5;Neutral;No;121;471$
+Female;Loyal Customer;38;Business Travel;Eco;1120;0;18;2;4;5;4;4;Dissatisfied;Yes;177;394$
+Male;Loyal Customer;35;Business Travel;Business;1010;1;5;0;1;4;3;5;Satisfied;Yes;102;567$
+Male;Loyal Customer;40;Business Travel;Business;1363;42;42;3;4;3;2;3;Satisfied;Yes;134;578$
+Male;Loyal Customer;22;Business Travel;Eco;2116;3;0;2;4;3;5;3;Satisfied;Yes;305;517$
+Female;Loyal Customer;44;Personal Travel;Business;1097;1;4;1;1;5;3;4;Satisfied;Yes;132;476$
+Female;Disloyal Customer;43;Business Travel;Eco;1594;1;5;3;1;3;4;4;Dissatisfied;No;177;425$
+Male;Loyal Customer;35;Personal Travel;Eco;1171;12;17;3;1;2;4;5;Satisfied;Yes;163;485$
+Female;Loyal Customer;50;Business Travel;Business;1369;19;22;4;2;5;4;3;Satisfied;No;156;680$
+Male;Loyal Customer;28;Business Travel;Eco;744;2;10;3;3;4;5;4;Neutral;Yes;90;465$
+Male;Loyal Customer;51;Business Travel;Business;1389;0;3;4;3;2;4;2;Satisfied;No;239;519$
+Male;Loyal Customer;41;Business Travel;Eco;1403;2;0;5;2;3;3;3;Neutral;No;161;372$
+Female;Loyal Customer;36;Personal Travel;Eco;1770;0;4;4;5;3;5;2;Satisfied;Yes;278;148$
+Female;Disloyal Customer;39;Business Travel;Eco;1611;1;0;3;3;1;2;3;Dissatisfied;No;171;399$
+Male;Loyal Customer;38;Business Travel;Eco;900;5;11;2;1;5;3;5;Dissatisfied;Yes;128;377$
+Male;Disloyal Customer;52;Business Travel;Business;2042;2;2;5;2;3;5;2;Neutral;No;263;552$
+Male;Disloyal Customer;29;Business Travel;Business;1605;7;12;2;3;4;4;4;Dissatisfied;No;159;652$
+Male;Disloyal Customer;32;Business Travel;Eco;1599;2;13;2;3;1;5;3;Satisfied;Yes;182;229$
+Female;Loyal Customer;50;Business Travel;Eco;1495;28;28;3;2;3;4;2;Satisfied;No;234;513$
+Female;Loyal Customer;34;Personal Travel;Eco;1241;23;33;0;1;1;5;3;Neutral;Yes;191;370$
+Male;Loyal Customer;49;Business Travel;Eco;1608;8;10;5;4;4;5;3;Neutral;No;226;342$
+Male;Loyal Customer;56;Personal Travel;Eco;1737;4;17;3;5;3;3;2;Satisfied;No;202;265$
+Female;Disloyal Customer;35;Business Travel;Eco;626;4;7;3;2;3;2;4;Satisfied;No;73;398$
+Female;Loyal Customer;46;Business Travel;Business;1230;5;5;3;3;1;3;5;Satisfied;No;182;702$
+Male;Loyal Customer;28;Business Travel;Eco;1372;13;21;3;3;2;4;2;Satisfied;Yes;219;360$
+Male;Disloyal Customer;47;Business Travel;Eco;1628;6;8;0;4;1;2;2;Satisfied;Yes;193;364$
+Male;Disloyal Customer;41;Business Travel;Business;2096;19;19;3;3;2;1;3;Dissatisfied;Yes;271;551$
+Female;Loyal Customer;44;Business Travel;Eco;1114;28;30;4;5;3;3;4;Satisfied;No;99;528$
+Female;Loyal Customer;33;Business Travel;Eco;1251;4;8;3;3;3;5;2;Satisfied;Yes;155;313$
+Female;Loyal Customer;23;Business Travel;Eco;1243;8;19;4;3;3;4;1;Neutral;No;115;347$
+Male;Loyal Customer;45;Business Travel;Business;1099;0;0;2;3;3;3;3;Neutral;No;175;696$
+Male;Loyal Customer;19;Personal Travel;Business;1326;2;7;2;5;2;2;5;Dissatisfied;Yes;235;494$
+Female;Loyal Customer;36;Business Travel;Eco;1885;5;13;1;4;2;3;3;Neutral;No;298;463$
+Female;Loyal Customer;49;Business Travel;Eco Plus;973;2;7;2;1;1;2;3;Satisfied;No;99;308$
+Male;Loyal Customer;41;Business Travel;Business;1713;20;31;4;2;4;2;5;Dissatisfied;No;161;529$
+Female;Loyal Customer;59;Business Travel;Business;649;1;5;4;3;3;5;4;Neutral;No;95;698$
+Female;Loyal Customer;50;Business Travel;Eco;1219;6;10;2;2;1;5;4;Satisfied;No;166;282$
+Male;Loyal Customer;33;Business Travel;Business;1335;9;16;3;4;1;2;3;Neutral;No;213;534$
+Female;Disloyal Customer;40;Business Travel;Eco;2337;11;16;4;4;4;1;5;Dissatisfied;No;442;375$
+Male;Disloyal Customer;39;Business Travel;Eco Plus;1362;4;7;2;4;4;3;4;Satisfied;No;150;301$
+Male;Loyal Customer;24;Business Travel;Business;399;20;27;1;5;3;3;4;Satisfied;Yes;47;508$
+Male;Loyal Customer;30;Business Travel;Eco;500;8;9;5;2;3;2;4;Satisfied;No;62;361$
+Male;Loyal Customer;34;Business Travel;Business;1517;5;6;3;4;2;3;4;Satisfied;Yes;257;554$
+Male;Disloyal Customer;19;Business Travel;Business;1806;0;2;5;4;5;2;2;Satisfied;Yes;172;678$
+Male;Disloyal Customer;40;Business Travel;Eco;1687;6;17;2;3;4;4;3;Neutral;No;232;504$
+Male;Loyal Customer;37;Personal Travel;Eco;1583;17;5;4;4;2;4;4;Satisfied;No;179;194$
+Female;Disloyal Customer;23;Business Travel;Eco Plus;2081;9;15;2;1;4;4;2;Dissatisfied;No;357;411$
+Male;Loyal Customer;44;Business Travel;Eco;1230;17;22;2;4;4;3;3;Dissatisfied;Yes;159;417$
+Male;Loyal Customer;47;Business Travel;Business;1947;6;2;3;3;2;5;2;Neutral;No;230;701$
+Female;Disloyal Customer;42;Personal Travel;Business;683;1;7;2;2;3;5;4;Dissatisfied;No;80;551$
+Female;Disloyal Customer;36;Business Travel;Business;1047;0;7;1;4;1;2;2;Satisfied;Yes;127;579$
+Female;Disloyal Customer;45;Business Travel;Business;596;3;10;2;3;1;2;4;Satisfied;No;68;616$
+Male;Disloyal Customer;46;Business Travel;Business;1362;11;2;0;2;4;3;4;Neutral;No;216;617$
+Female;Loyal Customer;43;Business Travel;Business;1476;15;26;4;1;2;1;2;Dissatisfied;No;177;457$
+Male;Disloyal Customer;31;Business Travel;Eco;1557;3;4;3;3;4;3;3;Dissatisfied;Yes;190;369$
+Male;Loyal Customer;42;Business Travel;Eco;1530;6;14;0;3;5;4;2;Satisfied;Yes;183;495$
+Male;Disloyal Customer;51;Personal Travel;Eco;1036;5;13;1;4;1;3;3;Dissatisfied;No;127;259$
+Male;Loyal Customer;34;Business Travel;Eco;1404;5;5;1;5;3;3;3;Satisfied;No;230;362$
+Female;Disloyal Customer;60;Personal Travel;Business;751;2;10;3;3;4;3;1;Dissatisfied;No;124;455$
+Female;Loyal Customer;34;Personal Travel;Business;2181;1;4;0;4;4;5;5;Dissatisfied;Yes;466;248$
+Male;Disloyal Customer;40;Business Travel;Eco;1348;2;0;4;3;4;2;1;Satisfied;No;146;352$
+Male;Loyal Customer;33;Business Travel;Eco;1255;0;10;0;4;2;4;4;Dissatisfied;No;135;380$
+Male;Disloyal Customer;42;Business Travel;Business;2294;2;3;2;2;3;1;3;Satisfied;Yes;247;498$
+Female;Loyal Customer;22;Business Travel;Eco;878;0;0;4;3;3;1;4;Satisfied;No;103;234$
+Male;Loyal Customer;34;Business Travel;Eco;937;9;11;4;3;5;4;3;Neutral;No;195;261$
+Male;Loyal Customer;29;Personal Travel;Eco;951;3;9;0;1;2;2;4;Neutral;Yes;147;356$
+Female;Loyal Customer;41;Personal Travel;Business;1466;36;40;4;4;5;1;4;Dissatisfied;Yes;177;677$
+Female;Disloyal Customer;49;Business Travel;Eco;1715;2;9;3;4;2;2;4;Neutral;No;209;488$
+Male;Loyal Customer;46;Business Travel;Eco;1869;4;2;4;3;5;4;2;Satisfied;No;243;215$
+Female;Disloyal Customer;18;Personal Travel;Eco;2785;4;5;3;3;3;4;4;Dissatisfied;No;325;365$
+Female;Loyal Customer;60;Personal Travel;Eco;375;0;4;3;4;3;2;2;Dissatisfied;No;46;213$
+Male;Loyal Customer;42;Personal Travel;Eco;1804;18;32;5;4;3;4;1;Satisfied;Yes;220;221$
+Female;Disloyal Customer;32;Business Travel;Eco;1221;0;4;2;2;2;2;3;Dissatisfied;No;173;303$
+Male;Disloyal Customer;41;Business Travel;Business;1206;28;38;3;2;2;4;3;Satisfied;No;127;620$
+Female;Loyal Customer;41;Business Travel;Eco;1190;22;27;3;4;1;3;3;Dissatisfied;Yes;161;445$
+Male;Loyal Customer;33;Business Travel;Eco;1045;7;9;0;3;1;4;4;Satisfied;No;174;340$
+Male;Disloyal Customer;41;Business Travel;Eco;2342;7;10;0;2;2;5;3;Satisfied;Yes;342;341$
+Male;Loyal Customer;33;Business Travel;Business;1921;10;14;1;2;4;5;3;Satisfied;Yes;256;596$
+Female;Disloyal Customer;35;Business Travel;Business;1511;4;12;3;4;3;1;1;Neutral;Yes;159;606$
+Male;Disloyal Customer;33;Business Travel;Eco;2175;10;21;3;4;1;5;4;Satisfied;Yes;274;467$
+Female;Disloyal Customer;25;Business Travel;Eco;743;0;6;3;5;4;1;3;Satisfied;No;96;221$
+Male;Loyal Customer;41;Business Travel;Eco Plus;834;0;10;0;4;3;5;3;Neutral;No;136;402$
+Male;Disloyal Customer;45;Business Travel;Eco;411;6;6;3;5;5;3;4;Dissatisfied;No;44;243$
+Female;Loyal Customer;45;Business Travel;Eco;1150;7;9;5;2;3;3;3;Satisfied;No;163;344$
+Male;Loyal Customer;48;Business Travel;Eco;1580;21;22;2;4;1;1;3;Satisfied;No;201;327$
+Male;Loyal Customer;43;Personal Travel;Eco;1551;1;7;3;1;3;2;3;Satisfied;No;151;275$
+Female;Loyal Customer;34;Business Travel;Eco;1574;17;20;4;4;3;4;4;Satisfied;No;179;270$
+Male;Disloyal Customer;48;Business Travel;Eco;794;2;10;4;3;1;5;4;Dissatisfied;No;142;201$
+Male;Disloyal Customer;26;Business Travel;Business;1901;5;5;3;2;1;4;2;Dissatisfied;No;355;340$
+Male;Disloyal Customer;30;Personal Travel;Eco;1619;3;8;4;4;1;4;2;Neutral;No;204;266$
+Male;Loyal Customer;30;Business Travel;Eco;1866;5;13;2;4;2;4;2;Satisfied;Yes;301;306$
+Female;Loyal Customer;50;Business Travel;Business;553;1;0;4;1;3;3;4;Dissatisfied;No;61;482$
+Female;Loyal Customer;49;Business Travel;Business;1655;7;22;2;3;3;1;4;Neutral;No;205;682$
+Male;Disloyal Customer;44;Business Travel;Business;906;16;19;2;3;1;1;3;Dissatisfied;No;109;464$
+Female;Loyal Customer;50;Business Travel;Business;1301;5;0;0;3;3;3;2;Neutral;Yes;187;691$
+Male;Disloyal Customer;31;Business Travel;Business;1767;6;11;4;4;3;2;4;Dissatisfied;No;166;712$
+Female;Loyal Customer;43;Personal Travel;Eco;1545;18;23;3;2;2;1;4;Neutral;No;125;84$
+Male;Loyal Customer;38;Business Travel;Eco Plus;1074;12;16;2;5;1;2;4;Satisfied;Yes;141;409$
+Male;Disloyal Customer;48;Personal Travel;Eco;1503;6;15;2;2;1;2;4;Dissatisfied;No;176;240$
+Male;Loyal Customer;38;Personal Travel;Business;734;2;10;5;4;2;5;4;Neutral;Yes;90;188$
+Male;Disloyal Customer;36;Business Travel;Business;2075;21;27;4;4;1;2;1;Neutral;No;272;405$
+Male;Disloyal Customer;45;Personal Travel;Eco;1397;8;15;3;2;2;3;2;Satisfied;No;206;357$
+Male;Loyal Customer;48;Business Travel;Business;2059;2;6;3;2;3;4;1;Neutral;No;323;751$
+Female;Loyal Customer;33;Business Travel;Eco;1236;3;16;3;4;3;3;4;Neutral;No;196;440$
+Male;Loyal Customer;39;Business Travel;Eco;1238;16;13;2;4;2;1;1;Satisfied;No;143;382$
+Female;Disloyal Customer;29;Business Travel;Eco;1117;0;5;5;2;2;3;3;Satisfied;Yes;154;347$
+Male;Loyal Customer;18;Business Travel;Business;1938;48;53;1;3;3;1;3;Neutral;Yes;468;718$
+Female;Disloyal Customer;42;Business Travel;Eco;1145;1;10;3;1;4;3;3;Dissatisfied;Yes;132;564$
+Female;Disloyal Customer;46;Business Travel;Business;1822;15;15;2;2;4;2;4;Neutral;Yes;229;491$
+Female;Disloyal Customer;42;Business Travel;Eco Plus;1308;5;1;3;3;3;4;2;Satisfied;No;130;200$
+Male;Loyal Customer;20;Business Travel;Eco;512;6;11;3;1;2;4;3;Neutral;No;59;140$
+Male;Disloyal Customer;36;Business Travel;Business;1214;21;27;3;4;2;3;4;Satisfied;Yes;209;682$
+Female;Disloyal Customer;18;Business Travel;Business;910;5;17;1;4;4;3;1;Satisfied;Yes;195;545$
+Male;Loyal Customer;53;Business Travel;Business;1516;7;5;3;5;1;3;4;Satisfied;No;219;568$
+Female;Loyal Customer;29;Personal Travel;Eco;904;0;10;2;4;5;5;4;Satisfied;No;128;100$
+Male;Disloyal Customer;52;Business Travel;Business;1962;0;16;1;5;3;2;5;Satisfied;No;208;474$
+Female;Loyal Customer;49;Personal Travel;Eco;1454;2;5;0;3;3;4;4;Satisfied;No;182;250$
+Female;Disloyal Customer;30;Business Travel;Business;1411;11;9;4;3;1;4;3;Satisfied;No;145;570$
+Male;Loyal Customer;28;Business Travel;Eco;1827;1;3;3;5;3;3;3;Satisfied;Yes;303;310$
+Female;Loyal Customer;43;Business Travel;Eco;1981;1;6;3;3;3;3;1;Neutral;No;209;246$
+Male;Disloyal Customer;31;Business Travel;Eco;1489;5;12;4;1;1;3;2;Satisfied;Yes;163;271$
+Female;Loyal Customer;41;Business Travel;Eco;1114;10;12;3;4;2;1;1;Satisfied;Yes;224;470$
+Female;Loyal Customer;35;Personal Travel;Business;613;12;24;3;5;4;1;3;Dissatisfied;Yes;61;504$
+Male;Loyal Customer;22;Business Travel;Business;1156;1;0;2;4;3;2;4;Satisfied;No;142;611$
+Male;Loyal Customer;18;Personal Travel;Eco;1191;0;0;2;3;3;2;3;Neutral;No;138;190$
+Male;Loyal Customer;42;Personal Travel;Business;1553;28;38;3;4;1;3;3;Satisfied;Yes;231;184$
+Female;Loyal Customer;34;Personal Travel;Eco;1327;3;0;3;5;4;5;3;Satisfied;No;133;227$
+Male;Disloyal Customer;34;Personal Travel;Business;1843;19;22;4;1;4;2;3;Neutral;No;296;393$
+Female;Loyal Customer;46;Business Travel;Business;1193;19;39;4;4;3;5;5;Neutral;No;128;584$
+Female;Disloyal Customer;51;Business Travel;Business;1471;14;18;1;2;3;5;2;Dissatisfied;Yes;159;878$
+Male;Loyal Customer;37;Business Travel;Eco;2091;1;0;1;3;3;5;4;Neutral;No;319;419$
+Male;Disloyal Customer;36;Business Travel;Business;1670;17;21;3;3;3;5;3;Dissatisfied;No;152;823$
+Female;Loyal Customer;45;Business Travel;Eco;1469;14;18;2;2;2;3;1;Satisfied;Yes;175;406$
+Female;Disloyal Customer;26;Personal Travel;Business;1199;9;14;0;2;5;1;3;Satisfied;Yes;133;417$
+Male;Loyal Customer;42;Business Travel;Eco;1183;4;12;4;3;3;4;4;Satisfied;Yes;207;384$
+Male;Loyal Customer;45;Business Travel;Business;1074;3;2;2;1;2;4;1;Satisfied;Yes;96;728$
+Male;Loyal Customer;46;Business Travel;Eco;1229;1;14;5;2;3;5;1;Neutral;No;199;532$
+Male;Loyal Customer;20;Business Travel;Eco;1877;7;13;4;4;4;5;2;Neutral;No;196;292$
+Male;Loyal Customer;32;Business Travel;Business;1389;8;16;4;2;1;3;4;Satisfied;No;213;575$
+Female;Loyal Customer;31;Personal Travel;Eco Plus;825;4;5;2;3;2;3;4;Dissatisfied;Yes;116;187$
+Female;Disloyal Customer;40;Business Travel;Eco Plus;2384;6;17;2;5;3;2;3;Dissatisfied;No;259;482$
+Female;Loyal Customer;44;Business Travel;Eco;1659;4;7;3;2;2;1;3;Satisfied;No;173;505$
+Female;Loyal Customer;54;Business Travel;Eco;796;10;16;1;3;4;3;4;Satisfied;No;130;353$
+Male;Disloyal Customer;35;Business Travel;Business;1279;23;23;2;3;1;4;4;Satisfied;No;132;483$
+Male;Disloyal Customer;35;Business Travel;Eco;1555;1;1;2;4;4;5;4;Satisfied;Yes;162;386$
+Male;Loyal Customer;51;Business Travel;Business;2352;4;12;1;5;1;3;4;Satisfied;No;356;591$
+Female;Loyal Customer;42;Business Travel;Business;945;1;3;2;5;1;5;4;Neutral;No;90;558$
+Female;Loyal Customer;52;Business Travel;Eco Plus;1988;9;9;4;4;4;4;3;Satisfied;No;341;417$
+Male;Disloyal Customer;42;Business Travel;Business;2199;13;14;1;2;3;5;4;Satisfied;No;311;532$
+Male;Disloyal Customer;28;Business Travel;Eco;1185;26;34;0;1;2;2;5;Dissatisfied;Yes;135;449$
+Female;Loyal Customer;26;Business Travel;Eco;1361;3;4;3;3;2;5;1;Neutral;Yes;202;423$
+Female;Disloyal Customer;24;Business Travel;Eco;981;29;33;5;1;3;4;1;Dissatisfied;No;116;251$
+Male;Disloyal Customer;46;Business Travel;Eco Plus;1398;0;5;2;4;3;2;5;Satisfied;No;167;298$
+Male;Loyal Customer;51;Personal Travel;Business;1481;9;4;1;4;5;2;2;Satisfied;No;191;454$
+Female;Disloyal Customer;58;Business Travel;Business;1829;0;0;3;1;5;5;4;Neutral;Yes;197;623$
+Male;Loyal Customer;48;Business Travel;Eco;2045;22;28;5;4;3;1;3;Satisfied;No;267;364$
+Male;Loyal Customer;51;Business Travel;Business;1125;7;8;4;2;3;3;2;Satisfied;No;134;485$
+Male;Loyal Customer;-34;Business Travel;Business;516;11;21;3;3;3;3;1;Neutral;No;53;576$
+Female;Loyal Customer;28;Business Travel;Business;1489;17;26;2;4;3;4;2;Neutral;Yes;162;516$
+Female;Loyal Customer;48;Business Travel;Eco;1646;1;9;3;3;1;5;2;Satisfied;Yes;179;438$
+Female;Disloyal Customer;44;Personal Travel;Eco;1624;0;14;0;3;2;3;3;Satisfied;No;258;313$
+Female;Loyal Customer;41;Business Travel;Business;1336;21;25;3;1;1;3;4;Satisfied;No;152;518$
+Female;Loyal Customer;43;Business Travel;Eco;1562;3;11;4;3;1;5;5;Satisfied;No;233;373$
+Female;Loyal Customer;43;Business Travel;Business;2257;1;3;5;4;1;4;3;Satisfied;No;371;681$
+Female;Disloyal Customer;52;Business Travel;Business;1690;6;23;2;5;3;5;3;Satisfied;No;214;493$
+Male;Loyal Customer;52;Business Travel;Eco;1313;9;23;0;3;4;3;3;Satisfied;Yes;197;390$
+Male;Loyal Customer;45;Business Travel;Eco;1249;0;5;3;3;3;2;3;Dissatisfied;Yes;135;342$
+Male;Loyal Customer;-48;Personal Travel;Eco;1415;3;9;4;4;2;3;3;Neutral;Yes;153;322$
+Male;Loyal Customer;45;Business Travel;Business;2318;0;11;4;5;1;4;1;Dissatisfied;No;450;484$
+Male;Disloyal Customer;35;Business Travel;Eco;1408;5;9;1;2;3;2;1;Satisfied;No;208;361$
+Male;Disloyal Customer;47;Personal Travel;Eco;1490;22;23;2;3;2;3;1;Satisfied;No;256;390$
+Male;Loyal Customer;26;Business Travel;Eco;1258;40;49;3;4;3;1;2;Satisfied;Yes;172;256$
+Female;Disloyal Customer;50;Personal Travel;Eco;2049;10;15;2;3;5;3;4;Satisfied;No;235;147$
+Female;Disloyal Customer;28;Business Travel;Eco;2479;1;6;4;1;1;5;2;Satisfied;No;324;220$
+Male;Disloyal Customer;42;Personal Travel;Eco;1725;23;23;3;3;2;1;4;Dissatisfied;No;242;162$
+Male;Loyal Customer;31;Business Travel;Eco;1541;7;3;4;2;3;4;5;Neutral;Yes;154;409$
+Female;Loyal Customer;45;Personal Travel;Eco Plus;1518;1;7;3;3;5;5;5;Neutral;No;334;189$
+Male;Loyal Customer;39;Personal Travel;Eco;307;25;34;4;3;4;2;5;Satisfied;No;31;250$
+Male;Disloyal Customer;24;Business Travel;Eco;1872;14;17;2;4;4;4;2;Dissatisfied;No;260;411$
+Female;Loyal Customer;44;Personal Travel;Eco;1567;13;25;4;3;2;5;3;Satisfied;No;198;321$
+Male;Loyal Customer;34;Business Travel;Business;1714;12;13;2;2;5;5;2;Satisfied;Yes;237;511$
+Female;Loyal Customer;48;Business Travel;Business;1144;2;1;3;2;1;2;4;Satisfied;No;110;569$
+Male;Disloyal Customer;40;Business Travel;Eco;1307;2;6;2;4;1;2;4;Dissatisfied;No;212;360$
+Female;Loyal Customer;43;Business Travel;Eco Plus;1294;11;15;3;2;4;2;4;Dissatisfied;No;161;377$
+Female;Disloyal Customer;30;Business Travel;Eco Plus;2010;2;10;2;3;5;4;3;Satisfied;No;228;378$
+Female;Disloyal Customer;34;Business Travel;Business;1310;5;6;2;2;1;4;4;Dissatisfied;Yes;234;773$
+Male;Loyal Customer;35;Business Travel;Eco;2541;15;26;5;4;1;4;1;Dissatisfied;Yes;383;430$
+Female;Disloyal Customer;48;Personal Travel;Business;1715;15;29;1;3;1;3;1;Satisfied;No;220;728$
+Male;Loyal Customer;56;Personal Travel;Eco Plus;862;6;10;4;3;1;2;4;Satisfied;Yes;129;280$
+Male;Disloyal Customer;31;Business Travel;Eco Plus;1435;15;26;5;3;2;4;3;Satisfied;No;211;391$
+Male;Loyal Customer;50;Business Travel;Eco;1174;18;17;0;4;5;3;5;Dissatisfied;Yes;157;216$
+Male;Disloyal Customer;18;Business Travel;Eco;402;10;20;3;3;3;4;1;Satisfied;Yes;44;269$
+Female;Disloyal Customer;28;Business Travel;Eco;2299;2;12;2;4;4;3;4;Dissatisfied;No;307;540$
+Female;Disloyal Customer;30;Business Travel;Eco;1851;3;12;0;4;4;3;3;Satisfied;Yes;192;297$
+Male;Disloyal Customer;26;Business Travel;Business;1766;3;7;3;5;3;3;4;Dissatisfied;No;271;741$
+Male;Loyal Customer;24;Business Travel;Eco;1582;1;0;5;2;4;2;4;Satisfied;No;258;225$
+Female;Disloyal Customer;44;Personal Travel;Eco;808;3;4;0;5;3;3;5;Neutral;No;74;174$
+Male;Disloyal Customer;37;Business Travel;Eco;1258;2;3;3;1;2;1;2;Dissatisfied;No;179;315$
+Female;Loyal Customer;43;Business Travel;Business;1920;6;6;3;3;3;3;5;Dissatisfied;Yes;318;543$
+Male;Loyal Customer;46;Business Travel;Eco Plus;974;23;28;4;4;3;1;2;Dissatisfied;No;180;492$
+Male;Disloyal Customer;42;Business Travel;Business;300;1;3;0;2;4;2;1;Satisfied;No;31;595$
+Female;Disloyal Customer;46;Business Travel;Eco;1386;12;12;3;2;5;4;3;Neutral;No;185;308$
+Male;Disloyal Customer;39;Business Travel;Eco;1429;11;10;3;2;3;3;4;Satisfied;No;187;336$
+Female;Loyal Customer;28;Business Travel;Eco;1567;1;2;3;3;4;4;3;Satisfied;No;201;318$
+Male;Disloyal_Customer;50;Business Travel;Eco;1864;25;35;5;3;1;4;4;Neutral;No;195;258$
+Male;Loyal Customer;34;Personal Travel;Business;1818;8;9;4;4;4;4;4;Satisfied;No;235;391$
+Male;Disloyal Customer;30;Personal Travel;Business;1629;4;6;0;4;2;5;2;Neutral;Yes;141;582$
+Female;Loyal Customer;38;Business Travel;Eco;2097;14;16;3;4;1;1;5;Dissatisfied;Yes;255;167$
+Male;Disloyal_Customer;30;Business Travel;Eco;740;2;8;2;2;2;4;1;Satisfied;No;77;511$
+Male;Disloyal_Customer;35;Business Travel;Business;1752;11;18;2;5;3;5;4;Neutral;Yes;190;515$
+Male;Loyal Customer;43;Business Travel;Eco;1813;0;0;3;2;1;5;3;Satisfied;Yes;228;272$
+Male;Disloyal Customer;43;Business Travel;Eco;880;18;28;2;1;5;2;3;Satisfied;Yes;123;423$
+Female;Loyal Customer;31;Business Travel;Eco;748;5;17;3;1;1;3;3;Satisfied;No;88;498$
+Female;Disloyal_Customer;35;Business Travel;Eco;1127;10;9;5;3;5;2;2;Dissatisfied;No;128;461$
+MaLE;Disloyal_Customer;50;Business Travel;Business;1169;2;2;0;1;4;4;3;Dissatisfied;No;163;600$
+Female;Loyal Customer;44;Business Travel;Business;1876;11;13;5;1;2;4;2;Dissatisfied;No;227;658$
+MaLE;Disloyal_Customer;60;Personal Travel;Eco;1192;14;15;3;2;2;3;2;Dissatisfied;No;120;108$
+MaLE;Disloyal_Customer;51;Personal Travel;Eco;1071;6;12;3;2;4;3;2;Satisfied;No;96;227$
+Male;Loyal Customer;51;Personal Travel;Eco;1194;9;4;4;3;3;4;3;Satisfied;No;128;188$
+Female;Loyal Customer;26;Business Travel;Eco;2059;6;5;2;4;3;3;4;Neutral;No;190;472$
+Female;Disloyal Customer;47;Personal Travel;Eco;1506;22;34;3;4;2;5;3;Satisfied;No;213;241$
+Female;Disloyal Customer;39;Business Travel;Eco Plus;1410;6;6;3;2;3;4;4;Satisfied;No;155;484$
+Female;Disloyal Customer;34;Personal Travel;Eco;1444;18;29;2;2;5;1;4;Satisfied;No;144;333$
+Female;Disloyal Customer;41;Business Travel;Eco;2146;16;22;5;5;2;4;4;Neutral;No;322;263$
+Female;Loyal Customer;49;Personal Travel;Eco;1125;5;0;4;1;3;2;4;Neutral;No;154;221$
+Female;Disloyal Customer;45;Business Travel;Business;2157;2;10;1;4;2;4;3;Satisfied;No;203;679$
+Female;Loyal Customer;31;Personal Travel;Eco;1605;5;9;1;2;4;5;4;Satisfied;No;245;202$
+Female;Loyal Customer;47;Personal Travel;Business;1419;17;19;3;5;4;5;1;Neutral;No;236;492$
+MaLE;Loyal Customer;33;Business Travel;Eco Plus;2750;2;8;0;2;2;3;4;Neutral;No;267;321$
+Female;Loyal Customer;42;Business Travel;Eco;972;7;14;3;3;1;3;4;Satisfied;No;99;318$
+Female;Loyal Customer;36;Personal Travel;Eco;1323;16;24;1;4;1;2;2;Dissatisfied;No;152;275$
+Female;Loyal Customer;37;Business Travel;Business;883;4;14;3;3;3;3;4;Satisfied;No;111;471$
+Female;Disloyal Customer;47;Personal Travel;Business;1976;10;17;0;2;3;2;1;Satisfied;No;-269;383$
+Female;Loyal Customer;29;Business Travel;Business;2344;2;0;2;3;5;3;2;Dissatisfied;No;278;578$
+Female;Loyal Customer;59;Business Travel;Eco;2334;1;3;3;4;3;1;1;Neutral;No;225;265$
+Female;Loyal Customer;21;Business Travel;Business;2111;15;34;3;1;2;3;4;Satisfied;No;252;468$
+Female;Loyal Customer;34;Business Travel;Eco;1401;1;9;5;1;4;2;4;Neutral;No;124;256$
+Female;Loyal Customer;43;Personal Travel;Eco;1317;3;19;4;3;3;5;4;Neutral;No;197;272$
+Female;Loyal Customer;45;Business Travel;Eco;664;19;30;2;1;3;4;1;Dissatisfied;Yes;83;444$
+Female;Disloyal Customer;38;Business Travel;Eco;2517;4;10;0;4;1;3;3;Dissatisfied;No;338;500$
+MaLE;Disloyal Customer;39;Business Travel;Business;1734;36;42;4;2;2;1;4;Neutral;No;272;477$
+Male;disloyal ;44;Business Travel;Eco;1254;38;42;5;3;5;3;2;Satisfied;No;161;565$
+Female;Loyal Customer;37;Personal Travel;Eco;2164;3;0;4;2;3;2;4;Satisfied;No;250;179$
+Female;Loyal Customer;53;Personal Travel;Business;1013;0;5;1;3;2;3;1;Satisfied;Yes;115;588$
+MaLE;disloyal ;48;Business Travel;Eco;1703;12;23;5;1;3;5;2;Satisfied;No;151;277$
